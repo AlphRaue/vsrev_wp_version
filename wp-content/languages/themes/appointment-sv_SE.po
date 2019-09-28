@@ -1,0 +1,1140 @@
+# Translation of Themes - Appointment in Swedish
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-16 22:27:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Description of the theme
+msgid "Appointment WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout and much more. In the premium version you can add different type of slides like video, aside, quote, status and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts and many sections for business using the Homepage template. Appointment theme comes with various locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "WordPress-temat Appointment är ett fullständigt responsivt tema som är förberett för att översättas och låter dig skapa fantastiska bloggar och webbplatser. Temat är väl lämpat för företag, advokatbyråer, resebyråer, fotografer, receptsamlingar, design, konst, personliga webbplatser och andra kreativa webbplatser och bloggar. Temat är framtaget med hjälp av Bootstrap 3, vilket gör att det fungerar bra på mobiler och surfplattor. Det innehåller olika inställningar i anpassaren i WordPress som påverkar temats utseende. I tema-anpassaren kan du lägga till en anpassad bild i sidhuvudet, favicon, logga, bildspel, tjänster, uppmaningar och mycket mer. I premium-versionen kan du lägga till olika typer av bilder i bildspel, såsom video, sidonotiser, citat, statusuppdateringar och standard, som alla har olika HTML-utformning. Det finns ett antal inbyggda widgetar: sidopaneler med stöd för WPML, tillägget Polylang för översättning av WordPress och Contact Form 7, en portföljmall, layouter för kontaktsida, kolumnbaserad portföljvisning och många sektioner för företag med hjälp av startsidesmallen. Temat Appointment levereras med ett antal olika språk. Du behöver bara gå till Utseende – Anpassa för att ändra dina inställningar."
+
+#. Theme Name of the theme
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/customizer/customizer-pro-feature.php:110
+msgid "Dedicated support, various widget and sidebar management."
+msgstr "Dedikerat support, olika widgetar och hantering av sidopaneler."
+
+#: functions/customizer/customizer-pro-feature.php:107
+msgid "Layout manager will helps you to rearange the sections."
+msgstr "Layouthanteraren hjälper dig att sortera om sektionerna."
+
+#: functions/customizer/customizer-pro-feature.php:105
+msgid "You will enjoy more frontpage sections along with there settings."
+msgstr "Du kommer att njuta av fler sektioner på startsidan tillsammans med deras inställningar."
+
+#: functions/customizer/customizer-pro-feature.php:104
+msgid "Show all your team members, clients, testimonials on front page."
+msgstr "Visa alla dina teammedlemmar, klienter, omdömen på startsida."
+
+#: functions/customizer/customizer-pro-feature.php:103
+msgid "Theme comes with a beautifully designed section where you can manage your contact details."
+msgstr "Temat kommer med en vacker designad sektion där du kan hantera dina kontaktdetaljer."
+
+#: functions/customizer/customizer-pro-feature.php:102
+msgid "Add as many services you like. You can even display all the services on a separate page."
+msgstr "Lägg till så många tjänster du vill. Du kan till och med visa alla tjänster på en separat sida."
+
+#: functions/customizer/customizer-pro-feature.php:72
+msgid "View PRO Details"
+msgstr "Visa detaljer för PRO"
+
+#: functions/customizer/customizer-pro-feature.php:50
+msgid "Custom Color Schemes"
+msgstr "Anpassade färgscheman"
+
+#: functions/customizer/customizer-pro-feature.php:46
+msgid "Team Section"
+msgstr "Sektioner för team"
+
+#: functions/customizer/customizer-pro-feature.php:42
+msgid "Client Section"
+msgstr "Sektioner för klienter"
+
+#: functions/customizer/customizer-pro-feature.php:38
+msgid "Testimonial Section"
+msgstr "Sektioner för omdömen"
+
+#: functions/customizer/customizer-pro-feature.php:13
+#: functions/customizer/customizer-pro-feature.php:17
+#: functions/customizer/customizer-pro-feature.php:21
+#: functions/customizer/customizer-pro-feature.php:25
+#: functions/customizer/customizer-pro-feature.php:29
+#: functions/customizer/customizer-pro-feature.php:33
+#: functions/customizer/customizer-pro-feature.php:37
+#: functions/customizer/customizer-pro-feature.php:41
+#: functions/customizer/customizer-pro-feature.php:45
+#: functions/customizer/customizer-pro-feature.php:49
+#: functions/customizer/customizer-pro-feature.php:53
+#: functions/customizer/customizer-pro-feature.php:57
+#: functions/customizer/customizer-pro-feature.php:61
+msgid "PRO"
+msgstr "PRO"
+
+#: functions/customizer/customizer-pro.php:20
+msgid "Important Links"
+msgstr "Viktiga länkar"
+
+#: functions/customizer/customizer-pro-feature.php:30
+msgid "Create Unlimited Services"
+msgstr "Skapa obegränsade tjänster"
+
+#: functions/customizer/customizer-pro-feature.php:22
+msgid "Portfolio Management"
+msgstr "Portföljhantering"
+
+#: functions/customizer/customizer-pro-feature.php:18
+msgid "Mulitple Page Templates"
+msgstr "Flera sidmallar"
+
+#: functions/customizer/customizer-pro-feature.php:34
+msgid "Manage Contact Details"
+msgstr "Hantera kontaktdetaljer"
+
+#: theme_setup_data.php:75 functions/customizer/customizer-copyright.php:23
+msgid "<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: <a href=\"https://webriti.com\" rel=\"designer\">Appointment</a> by Webriti"
+msgstr "<a href=\"https://wordpress.org\">Drivs med WordPress</a> | Tema: <a href=\"https://webriti.com\" rel=\"designer\">Appointment</a> av Webriti"
+
+#: functions/breadcrumbs/breadcrumbs.php:94
+msgid "Articles posted by"
+msgstr "Artiklar publicerade av"
+
+#: functions/breadcrumbs/breadcrumbs.php:89
+msgid "Posts tagged"
+msgstr "Inlägg märkta"
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "Sökresultat för"
+
+#: functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "Arkiv per kategori"
+
+#: functions.php:147
+msgid ""
+"Click the large blue button to start the dummy data import process.<br /><br />Please be patient while WordPress imports all the content.<br /><br />\n"
+"\t\t\t<h3>Recommended Plugins</h3> Appointment theme supports the following plugins:<br /><br /><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact Form 7</a> </li> <br /><br /> <li> <a href=\"https://wordpress.org/plugins/bootstrap-3-shortcodes/\"> Bootstrap Shortcodes</a> </li>"
+msgstr ""
+"Klicka på den stora blå knappen för att inleda importen av demonstrationsdata.<br /><br />Det kan ta en stund för WordPress att importera allt innehåll – tålamod kan behövas.<br /><br />\n"
+"\t\t\t<h3>Rekommenderade tillägg</h3> Temat Appointment har stöd för följande tillägg:<br /> <br /><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact Form 7</a> </li> <br /><br /> <li> <a href=\"https://wordpress.org/plugins/bootstrap-3-shortcodes/\"> Bootstrap Shortcodes</a> </li>"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr "Länk för att skaffa Font Awesome-ikoner"
+
+#: functions/appointment-info/sections/github.php:71
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Detta avsnitt används ofta för att visa senaste nytt, meddelanden, evenemang och liknande innehåll."
+
+#: functions/appointment-info/sections/github.php:53
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Du kan visa valfritt antal tjänster på startsidan, med tillgång till tusentals FontAwesome-ikoner. Du kan även visa en uppsättning tjänster på en separat sida med hjälp av mallen för tjänsterelaterade sidor."
+
+#: functions/appointment-info/sections/github.php:34
+msgid "There are beautifully styled navigation/menus in the Appointment theme. You can make multi level menus, which means you can create sub menus."
+msgstr "Temat Appointment har vackert utformad navigering och menyer. Du kan skapa menyer i flera nivåer, vilket innebär att du kan skapa undermenyer."
+
+#: functions/appointment-info/sections/github.php:11
+#: functions/appointment-info/welcome-screen.php:210
+msgid "Why Upgrade to Pro?"
+msgstr "Varför uppgradera till Pro?"
+
+#: functions/appointment-info/sections/free_pro.php:75
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "Med hjälp av WPML, kan du skapa en flerspråkig webbplats."
+
+#: functions/appointment-info/sections/child-themes.php:171
+msgid "SHK Corporate - Current theme"
+msgstr "SHK Corporate – Aktuellt tema"
+
+#: functions/appointment-info/sections/child-themes.php:156
+#: functions/appointment-info/sections/child-themes.php:162
+msgid "SHK Corporate"
+msgstr "SHK Corporate"
+
+#: functions/appointment-info/sections/child-themes.php:154
+msgid "SHK Corporate Child Theme"
+msgstr "SHK Corporate barntema"
+
+#: category.php:9
+msgid "Category Archive"
+msgstr "Kategori arkiv"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : Info-widget"
+
+#: functions/customizer/customizer-callout.php:80
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: functions/appointment-info/sections/free_pro.php:123
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Callout, Portfolio [Unlimited Projects], Latest News, Clients, Testimonials and Custom Widgets"
+msgstr "Övre sidhuvud, bildspel [obegränsat antal bilder], tjänster [obegränsat antal], uppmaning, portfölj [obegränsat antal projekt], senaste nyheter, kunder, rekommendationer och anpassade widgetar"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Dölj sociala ikoner i sidfoten"
+
+#: tag.php:12
+msgid "Tag Archive"
+msgstr "Etikettarkiv"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "Sökresultat för"
+
+#: index-slider.php:24 index-slider.php:32 index-slider.php:40
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "Det här är ett mycket kraftfullt tema som kan användas för alla typer av företag. Det har en ren och elegant layout."
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Widgetområde i sidopanel"
+
+#: functions/customizer/customizer-slider.php:118
+msgid "Duration"
+msgstr "Varaktighet"
+
+#: functions/customizer/customizer-slider.php:100
+msgid "fade"
+msgstr "tona"
+
+#: functions/customizer/customizer-slider.php:33
+msgid "Hide slider from homepage"
+msgstr "Dölj bildspelet på startsidan"
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Dölj tjänstesektionen på startsidan"
+
+#: functions/customizer/customizer-news.php:53
+msgid "Hide post meta from News section"
+msgstr "Dölj metainformation om inlägg i nyhetssektionen"
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from Homepage"
+msgstr "Dölj sektionen ”Nyheter” på startsidan"
+
+#: functions/customizer/customizer-header.php:316
+#: functions/customizer/customizer-header.php:329
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:154
+#: functions/customizer/customizer-service.php:216
+#: functions/customizer/customizer-service.php:278
+#: functions/customizer/customizer-service.php:340
+#: functions/customizer/customizer-service.php:403
+msgid "Icon"
+msgstr "Ikon"
+
+#: functions/customizer/customizer-callout.php:148
+#: functions/customizer/customizer-callout.php:200
+#: functions/customizer/customizer-header.php:235
+#: functions/customizer/customizer-header.php:274
+#: functions/customizer/customizer-header.php:310
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+msgid "Open link in new tab"
+msgstr "Öppna länk i ny flik"
+
+#: functions/customizer/customizer-callout.php:132
+#: functions/customizer/customizer-callout.php:184
+msgid "Button Link"
+msgstr "Knapplänk"
+
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-callout.php:167
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: functions/customizer/customizer-callout.php:34
+msgid "Hide callout section from homepage"
+msgstr "Dölj uppmaningssektionen på startsidan"
+
+#: functions/appointment-info/sections/github.php:98
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "Vi har bra artiklar i vår kunskapsbas som hjälper dig att skapa effektiva webbplatser. Du hittar artiklarna via vår <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>hjälpsektion</a>."
+
+#: functions/appointment-info/sections/free_pro.php:137
+msgid "Webriti Support Forum"
+msgstr "Webriti supportforum"
+
+#: functions/appointment-info/sections/free_pro.php:125
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Om oss, tjänster, portfölj, blogg med sidopanel till vänster och höger, blogg med fullbredd, sida med fullbredd, kontaktsida och mycket mer."
+
+#: functions/appointment-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr "WordPress supportforum"
+
+#: functions/appointment-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Mall för startsida och mall för fullbred sida"
+
+#: functions/appointment-info/sections/free_pro.php:95
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "Bildspel [obegränsat antal bilder], widgetområde under bildspelet, tjänster [6 tjänster], uppmaningssektion, nyheter"
+
+#: comments.php:75
+msgid "Logout"
+msgstr "Logga ut"
+
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "Sektionsrubrik"
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr "Lämna ditt meddelande"
+
+#: comments.php:64
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du måste vara <a href=\"%s\">inloggad</a> för att kommentera."
+
+#: comments.php:24
+msgid "Posted on"
+msgstr "Publicerat"
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "Författararkiv"
+
+#: 404.php:9 functions/breadcrumbs/breadcrumbs.php:97
+msgid "Error 404"
+msgstr "Fel 404"
+
+#: functions/appointment-info/sections/emailcourse.php:32
+msgid "JOIN COURSE"
+msgstr "GÅ KURSEN"
+
+#: functions/appointment-info/sections/emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "I denna kurs via e-post ger jag 4 enkelt genomförbara tips på hur du skapar en trovärdig webbplats och hjälper dig att sälja mer."
+
+#: functions/appointment-info/sections/emailcourse.php:22
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Betrakta din webbplats som en hårt arbetande försäljare som arbetar dygnet runt alla datar och aldrig ber om påökt!"
+
+#: functions/appointment-info/sections/emailcourse.php:19
+msgid "To bring you more business."
+msgstr "För att hjälpa dig sälja mer."
+
+#: functions/appointment-info/sections/emailcourse.php:18
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Webbplatser har bara EN anledning att finnas:"
+
+#: functions/appointment-info/welcome-screen.php:213
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "BYGG FÖRTROENDESKAPANDE WEBBPLATSER"
+
+#: functions/appointment-info/welcome-screen.php:212
+msgid "Child Themes"
+msgstr "Barnteman"
+
+#: functions/appointment-info/welcome-screen.php:211
+msgid "Free vs PRO"
+msgstr "Gratis vs PRO"
+
+#: functions/appointment-info/welcome-screen.php:209
+msgid "Actions Required"
+msgstr "Åtgärder som krävs"
+
+#: functions/appointment-info/welcome-screen.php:208
+msgid "Getting Started"
+msgstr "Komma igång"
+
+#: functions/appointment-info/welcome-screen.php:138
+msgid "View Theme Info"
+msgstr "Visa temainformation"
+
+#: functions/appointment-info/welcome-screen.php:101
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hurra! Inga åtgärder krävs av dig just nu."
+
+#: functions/appointment-info/welcome-screen.php:58
+msgid "Get started with Appointment Lite"
+msgstr "Att komma igång med Appointment Lite"
+
+#: functions/appointment-info/welcome-screen.php:57
+msgid "Welcome! Thank you for choosing Appointment Lite! To take full advantage of the best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr "Välkommen! Tack för att du valt Appointment Lite! För att dra full nytta av allt vårt tema erbjuder bör du besöka vår %svälkomstsida%s."
+
+#: functions/appointment-info/sections/github.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Temat stöder ännu ett känt tillägg: WPML. Med hjälp av detta kan du skapa en webbplats som är tillgänglig på flera språk."
+
+#: functions/appointment-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "Stöd för språkfiler"
+
+#: functions/appointment-info/sections/github.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Det är mycket enkelt att bygga en hemsida med våra anpassade widgetar. Det är bara att placera dem i den tillgängliga sidopanelen eller rentav i innehållet."
+
+#: functions/appointment-info/sections/github.php:106
+msgid "Custom widget"
+msgstr "Anpassad widget"
+
+#: functions/appointment-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "Väldokumenterat"
+
+#: functions/appointment-info/sections/github.php:89
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "Du får 13 förinställda färgscheman och kan till och med skapa egna scheman med dina favoritfärger med hjälp av inställningarna för anpassade färger i anpassaren."
+
+#: functions/appointment-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Rekommendationer är ett effektivt sätt att öka er trovärdighet. Du kan visa vittnesmål med en karusell-effekt."
+
+#: functions/appointment-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "Funktion för rekommendationer"
+
+#: functions/appointment-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "Avsnitt för senaste nytt"
+
+#: functions/appointment-info/sections/github.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Visa upp valfritt antal projekt. Detta tema ger dig möjligheten att skapa en rutnätslayout med 2, 3 eller 4 kolumner genom att använda motsvarande mall för layout med 2, 3 respektive 4 kolumner. Om du behöver visa upp flera projekt kan dessa mallar vara vad du behöver. Du kan också skapa kategoriindelade portföljer, vilka visar alla portföljkategorierna på ett och samma ställe. Vi har faktiskt kodat temat på ett sätt som låter dig skapa ett obegränsat antal olika portföljer."
+
+#: functions/appointment-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "Portföljfunktioner"
+
+#: functions/appointment-info/sections/github.php:51
+msgid "Service Features"
+msgstr "Tjänstefunktioner"
+
+#: functions/appointment-info/sections/github.php:43
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Du kan skapa obegränsat antal bildspelselement som du styr via inställningarna under Utseende >> Anpassa. Bildspelet stöder olika inläggsformat, såsom standard, sidonotiser, citat, chat och video."
+
+#: functions/appointment-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr "Bildtextvisare"
+
+#: functions/appointment-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "Navigering i flera nivåer"
+
+#: functions/appointment-info/sections/github.php:25
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "I premium-versionen får du ett sidofält i övre delen av sidhuvudet där du kan placera valfri widget – alla widgetar har angivna stilar. Vi har skapat ett antal widgetar i temat som du kan använda här. Mer specifikt kan du här använda Appppointment info-widget för att visa din e-postadress, telefonnummer eller annan information som du väljer."
+
+#: functions/appointment-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "Övre sidhuvudssektion"
+
+#: functions/appointment-info/sections/github.php:17
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Denna funktion hjälper dig att byta namn på slug-namnet i URL:en, så att du kan SEO-anpassa den."
+
+#: functions/appointment-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "Din återkoppling är värdefull för oss"
+
+#: functions/appointment-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr "Information om premiumtema"
+
+#: functions/appointment-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr "Support för premiumtema"
+
+#: functions/appointment-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr "Demo av Pro"
+
+#: functions/appointment-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Demo av Lite"
+
+#: functions/appointment-info/sections/getting-started.php:38
+msgid "Useful Links"
+msgstr "Användbara länkar"
+
+#: functions/appointment-info/sections/getting-started.php:22
+msgid "You can use this theme for any type of business. It is compatible with popular plugins like Contact Form 7, WPML, Polylang, etc. The theme has a predefined version of a Contact page, Services page, Portfolio, column layout pages, About Us and Blog layout pages, helping you to create an effective web presence."
+msgstr "Du kan använda detta tema för alla typer av affärsverksamhet. Det är kompatibelt med populära tillägg, såsom Contact Form 7, WPML, Polylang m.fl. Temat har en fördefinierad kontaktsida, tjänstesida, portfölj, sidor med kolumnlayout, ”om oss” och sidor med blogglayout, och allt detta hjälper dig att skapa en effektiv närvaro på webben."
+
+#: functions/appointment-info/sections/getting-started.php:20
+msgid "This is a Business theme which is ideal for creating corporate, business, fashion and sports websites. The premium version has tons of features. The Homepage has a number of sections for showing sliders, your portfolio, user reviews, latest news, services, call to action and much more. Each section in the HomePage Template is well designed according to business requirements."
+msgstr "Detta är ett företagstema som är idealiskt för att skapa webbplatser åt koncerner, företag, mode och sport. Premiumversionen innehåller mängder av funktioner. Startsidan innehåller ett antal sektioner för att visa bildspel, er portfölj, rekommendationer från användare, nyheter, tjänster, uppmaningar och mycket mer. Varje sektion i mallen för startsidan är omsorgsfullt utformad utifrån behoven hos affärsverksamheter."
+
+#: functions/appointment-info/sections/getting-started.php:14
+msgid "About Appointment Theme"
+msgstr "Om temat Appointment"
+
+#: functions/appointment-info/sections/free_pro.php:148
+msgid "Get Appointment PRO Now!"
+msgstr "Skaffa Appointment PRO nu!"
+
+#: functions/appointment-info/sections/free_pro.php:119
+msgid "Appointment Pro"
+msgstr "Appointment Pro"
+
+#: functions/appointment-info/sections/free_pro.php:91
+msgid "Appointment Lite"
+msgstr "Appointment Lite"
+
+#: functions/appointment-info/sections/free_pro.php:80
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Få direkt support dygnet runt alla dagar i vårt supportforum."
+
+#: functions/appointment-info/sections/free_pro.php:79
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: functions/appointment-info/sections/free_pro.php:74
+msgid "WPML / Polylang Support"
+msgstr "Stöd för WPML/Polylang"
+
+#: functions/appointment-info/sections/free_pro.php:69
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Visa användarfeedback på sidan startsidan och sidan för tjänster."
+
+#: functions/appointment-info/sections/free_pro.php:68
+msgid "Testimonial / Review Section"
+msgstr "Avsnitt för omdömen och recensioner"
+
+#: functions/appointment-info/sections/free_pro.php:64
+msgid "Show all your services in a single place."
+msgstr "Visa alla dina tjänster på ett och samma ställe."
+
+#: functions/appointment-info/sections/free_pro.php:63
+msgid "Services Page"
+msgstr "Sida med tjänster"
+
+#: functions/appointment-info/sections/free_pro.php:59
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "Visa upp team-medlemmar, era kunder och anpassat innehåll som lagts in i WordPress-redigeraren."
+
+#: functions/appointment-info/sections/free_pro.php:58
+msgid "About Us Page"
+msgstr "Sidan Om oss"
+
+#: functions/appointment-info/sections/free_pro.php:54
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Presentera din projekt- eller portföljsamling i layout med 2, 3 eller 4 kolumner. Du kan också visa dina projekt/portföljer efter kategori."
+
+#: functions/appointment-info/sections/free_pro.php:53
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: functions/appointment-info/sections/free_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Låt webbplatsen visa din var din butik eller ditt kontor finns med hjälp av Google Maps."
+
+#: functions/appointment-info/sections/free_pro.php:47
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: functions/appointment-info/sections/free_pro.php:43
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "Det finns 13 förinställda färgscheman du lekande lätt kan använda. Det går även att skapa anpassade skal utan någon kodning."
+
+#: functions/appointment-info/sections/github.php:88
+#: functions/appointment-info/sections/free_pro.php:42
+msgid "Multiple Color Schemes"
+msgstr "Flera färgscheman"
+
+#: functions/appointment-info/sections/free_pro.php:38
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Denna funktion låter dig ändra slug-namnet i URL:en för egna inläggstyper."
+
+#: functions/appointment-info/sections/github.php:16
+#: functions/appointment-info/sections/free_pro.php:37
+msgid "SEO Friendly URL"
+msgstr "SEO-vänlig URL"
+
+#: functions/appointment-info/sections/free_pro.php:33
+msgid "Contact Form Support"
+msgstr "Stöd för kontaktformulär"
+
+#: functions/appointment-info/sections/free_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "Responsiv layout för alla sorts enheter"
+
+#: functions/appointment-info/sections/free_pro.php:28
+msgid "Mobile Friendly"
+msgstr "Mobilvänligt"
+
+#: functions/appointment-info/sections/free_pro.php:24
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "Olika mallsidor som ingår i premiumtemat Appointment"
+
+#: functions/appointment-info/sections/free_pro.php:23
+msgid "Page Templates Support"
+msgstr "Stöd för sidmallar"
+
+#: functions/appointment-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Du hittar ett antal sektioner på startsidan."
+
+#: functions/appointment-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Sektioner för startsida"
+
+#: functions/appointment-info/sections/free_pro.php:13
+msgid "Features"
+msgstr "Egenskaper"
+
+#: functions/appointment-info/sections/child-themes.php:124
+msgid "Mandy"
+msgstr "Mandy"
+
+#: functions/appointment-info/sections/child-themes.php:107
+#: functions/appointment-info/sections/child-themes.php:139
+msgid "Appointment Red - Current theme"
+msgstr "Appointment Red - aktuellt tema"
+
+#: functions/appointment-info/sections/child-themes.php:92
+msgid "Appointment Red"
+msgstr "Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:90
+#: functions/appointment-info/sections/child-themes.php:122
+msgid "Appointment Red Child Theme"
+msgstr "Barntema Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:75
+msgid "Appointment - Current theme"
+msgstr "Appointment - aktuellt tema"
+
+#: functions/appointment-info/sections/child-themes.php:60
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:58
+msgid "Appointment Green Child Theme"
+msgstr "Barntema Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:45
+#: functions/appointment-info/sections/child-themes.php:76
+#: functions/appointment-info/sections/child-themes.php:108
+#: functions/appointment-info/sections/child-themes.php:140
+#: functions/appointment-info/sections/child-themes.php:172
+msgid "Customize"
+msgstr "Anpassa"
+
+#: functions/appointment-info/sections/child-themes.php:44
+msgid "Appointment Blue - Current theme"
+msgstr "Appointment Blue - aktuellt tema"
+
+#: functions/appointment-info/sections/child-themes.php:38
+#: functions/appointment-info/sections/child-themes.php:69
+#: functions/appointment-info/sections/child-themes.php:101
+#: functions/appointment-info/sections/child-themes.php:133
+#: functions/appointment-info/sections/child-themes.php:165
+msgid "Live Preview"
+msgstr "Förhandsgranskning live"
+
+#: functions/appointment-info/sections/child-themes.php:37
+#: functions/appointment-info/sections/child-themes.php:68
+#: functions/appointment-info/sections/child-themes.php:100
+#: functions/appointment-info/sections/child-themes.php:132
+#: functions/appointment-info/sections/child-themes.php:164
+msgid "Install %s now"
+msgstr "Installera %s nu"
+
+#: functions/appointment-info/sections/child-themes.php:29
+msgid "Appointment Blue"
+msgstr "Appointment Blue"
+
+#: functions/appointment-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Appointment child themes that will totally transform the look of your site."
+msgstr "Nedan hittar du ett urval barnteman till Appointment, vilka helt förändrar utseendet på er webbplats."
+
+#: functions/appointment-info/sections/child-themes.php:16
+msgid "Install & Use Appointment Child Themes"
+msgstr "Installera och använd barnteman till Appointment"
+
+#: functions/appointment-info/sections/child-themes.php:27
+#: functions/appointment-info/sections/getting-started.php:28
+#: functions/appointment-info/sections/actions-required.php:30
+#: functions/appointment-info/sections/actions-required.php:37
+msgid "Appointment Blue Child Theme"
+msgstr "Barntema Appointment Blue"
+
+#: functions/appointment-info/sections/actions-required.php:22
+msgid "Do you want to show the Homepage as a Front Page? You need to set the Homepage as a static page, as shown in the snapshot below. Now go to the Customizer and start configuring the sections in the Business Template. We hope you will find this theme useful."
+msgstr "Vill du använda hemsidan som startsida? Du behöver ange hemsidan som statisk startsida, enligt bilden nedan. Sedan går du till anpassaren och börjar konfigurera de olika sektionerna i företagsmallen. Vi hoppas att temat kommer att vara till hjälp."
+
+#: functions/appointment-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Display"
+msgstr "2. Ange sidan som statisk startsida"
+
+#: functions/appointment-info/sections/actions-required.php:14
+msgid "To set up an exact replica of the Homepage as shown in our demo, you have to create a WordPress page using the Home Page Template. The Business Template has all the sections like banners, services, portfolio, etc., which are ideal for any business site. Kindly refer to the snapshot."
+msgstr "För att skapa en exakt kopia av startsidan som den ser ut i vår demo behöver du skapa en WordPress-sida med startsidesmallen. Business-mallen innehåller alla sektionerna, såsom banners, tjänster, portfölj m.m. som passar utmärkt för alla typer av företagswebbplatser. Se bilden."
+
+#: functions/appointment-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr "1. Att skapa startsida med hjälpa av startsidesmall."
+
+#: functions/widgets/sidebars.php:35 functions/widgets/sidebars.php:37
+msgid "Right widget area below slider"
+msgstr "Widgetområde till höger nedanför bildspel"
+
+#: functions/widgets/sidebars.php:44 functions/widgets/sidebars.php:46
+msgid "Center widget area below slider"
+msgstr "Widgetområde i mitten nedanför bildspel"
+
+#: functions/widgets/sidebars.php:26 functions/widgets/sidebars.php:28
+msgid "Left widget area below slider"
+msgstr "Widgetområde till vänster nedanför bildspel"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Startsidan"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Fullbredd"
+
+#: theme_setup_data.php:59 functions/customizer/customizer-callout.php:98
+msgid "Purchase Now"
+msgstr "Köp nu"
+
+#: single.php:17
+msgid "About the author"
+msgstr "Om författaren"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Sök"
+
+#: search.php:18
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Ledsen, men inga matchande resultat kunde hittas baserat på dina kriterier. Var vänlig försök med andra sökord."
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: index-slider.php:23 index-slider.php:31 index-slider.php:39
+msgid "Powerful Bootstrap Theme"
+msgstr "Kraftfullt Bootstrap-baserat tema"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Widgetområde i sidfot"
+
+#: functions/customizer/customizer-callout.php:66
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:253
+#: functions/customizer/customizer-service.php:314
+#: functions/customizer/customizer-service.php:377
+#: functions/customizer/customizer-service.php:440
+#: functions/customizer/customizer-news.php:85
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "Beskrivning"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "FontAwesome-ikoner"
+
+#: functions/customizer/customizer-callout.php:51
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:172
+#: functions/customizer/customizer-service.php:235
+#: functions/customizer/customizer-service.php:296
+#: functions/customizer/customizer-service.php:358
+#: functions/customizer/customizer-service.php:421
+#: functions/customizer/customizer-news.php:70
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Rubrik"
+
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "Undrar du över något? Ring oss nu"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Informations-widget för temat Appointment"
+
+#: functions/menu/default_menu_walker.php:23
+#: functions/breadcrumbs/breadcrumbs.php:6
+msgid "Home"
+msgstr "Hem"
+
+#: functions/customizer/customizer-slider.php:137
+msgid "Input number of slides"
+msgstr "Ange antal bildspelselement"
+
+#: functions/customizer/customizer-slider.php:98
+msgid "Select slider animation"
+msgstr "Välj typ av animering i bildspelet"
+
+#: functions/customizer/customizer-slider.php:87
+#: functions/customizer/customizer-slider.php:100
+msgid "slide"
+msgstr "skjut"
+
+#: functions/customizer/customizer-slider.php:76
+msgid "Select category for slider"
+msgstr "Välj kategori för bildspelet"
+
+#: functions/customizer/customizer-slider.php:58
+msgid "Category slider"
+msgstr "Bildspel för kategori"
+
+#: functions/customizer/customizer-slider.php:57
+msgid "Demo slider"
+msgstr "Bildspelsdemo"
+
+#: functions/customizer/customizer-slider.php:54
+msgid "Select slider type"
+msgstr "Välj bildspelstyp"
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Featured slider settings"
+msgstr "Inställningar för utvalt bildspel"
+
+#: functions/customizer/customizer-slider.php:8
+msgid "Slider settings"
+msgstr "Inställningar för bildspel"
+
+#: functions/customizer/customizer-service.php:384
+msgid "Service section six"
+msgstr "Tjänstesektion sex"
+
+#: functions/customizer/customizer-service.php:322
+msgid "Service section five"
+msgstr "Tjänstesektion fem"
+
+#: functions/customizer/customizer-service.php:261
+msgid "Service section four"
+msgstr "Tjänstesektion fyra"
+
+#: functions/customizer/customizer-service.php:197
+msgid "Service section three"
+msgstr "Tjänstesektion tre"
+
+#: functions/customizer/customizer-service.php:135
+msgid "Service section two"
+msgstr "Tjänstesektion två"
+
+#: theme_setup_data.php:36 theme_setup_data.php:39 theme_setup_data.php:42
+#: theme_setup_data.php:45 theme_setup_data.php:48 theme_setup_data.php:51
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:163
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:349
+#: functions/customizer/customizer-service.php:412
+msgid "Easy to use"
+msgstr "Enkel användning"
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Tjänstesektion ett"
+
+#: theme_setup_data.php:33 functions/customizer/customizer-service.php:42
+msgid "Our services"
+msgstr "Våra tjänster"
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Inställningar för tjänster"
+
+#: functions/customizer/customizer-pro.php:77
+msgid "The Pro version gives you more opportunities to enhance your site and business. In order to create an effective online presence, one must showcase their wide range of products, use a Contact Us enquiry form, create an effective About Us page, introduce the Team Members, etc. The Pro version offers all this. Buy the Pro version today and give us the chance to serve you better."
+msgstr "Pro-versionen ger er fler möjligheter att förbättra webbplatsen och era affärer. För att skapa en effektiv närvaro på nätet behöver man visa upp sitt breda utbud av produkter, använda ett kontaktformulär för förfrågningar, skapa en effektiv sida ”om oss”, presentera medarbetarna o.s.v. Pro-versionen erbjuder allt detta. Köp Pro-versionen idag och ge oss chansen att hjälpa er bättre."
+
+#: functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr "Dokumentation"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "LÄGG TILL DITT OMDÖME"
+
+#: functions/customizer/customizer-pro.php:13
+#: functions/customizer/customizer-pro-feature.php:65
+msgid "UPGRADE TO PRO"
+msgstr "UPPGRADERA TILL PRO"
+
+#: functions/customizer/customizer-news.php:122
+msgid "Select number of Posts"
+msgstr "Välj antal inlägg"
+
+#: functions/customizer/customizer-news.php:102
+msgid "Select category for Latest News"
+msgstr "Välj kategori för senaste nytt"
+
+#: theme_setup_data.php:69 functions/customizer/customizer-news.php:63
+msgid "Latest news"
+msgstr "Senaste nytt"
+
+#: functions/customizer/customizer-news.php:8
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News settings"
+msgstr "Inställningar för senaste nytt"
+
+#: functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Välj favicon (bästa bredd och höjd är 16x16 eller 32x32)"
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr "Ladda upp en favicon"
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "Favicon för webbplats"
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Visa text för loggan"
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr "Ange loggans höjd"
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr "Ange loggans bredd"
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Aktivera/inaktivera logga"
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Ladda upp en 150x150 bildlogga"
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Inställningar för logga i sidhuvud"
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Text i sidhuvud"
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Rubrik i sidhuvud"
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Inställningar för anpassad sidhuvud"
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Rubrikinställningar"
+
+#: functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr "URL för Skype"
+
+#: functions.php:99 functions/customizer/customizer-copyright.php:203
+msgid "GooglePlus URL"
+msgstr "URL för Google+"
+
+#: functions.php:98 functions/customizer/customizer-header.php:292
+#: functions/customizer/customizer-copyright.php:167
+msgid "LinkedIn URL"
+msgstr "URL för LinkedIn"
+
+#: functions.php:97 functions/customizer/customizer-header.php:256
+#: functions/customizer/customizer-copyright.php:132
+msgid "Twitter URL"
+msgstr "URL för Twitter"
+
+#: functions.php:96 functions/customizer/customizer-header.php:218
+#: functions/customizer/customizer-copyright.php:96
+msgid "Facebook URL"
+msgstr "URL för Facebook"
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr "Dölj sociala ikoner i sidhuvudet"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Sociala länkar"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Dölj upphovsrättstext"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Upphovsrättstext"
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Inställningar för upphovsrättsnotis i sidfot"
+
+#: theme_setup_data.php:62 functions/customizer/customizer-callout.php:157
+msgid "Get in Touch"
+msgstr "Kontakta"
+
+#: functions/customizer/customizer-callout.php:116
+msgid "Button two"
+msgstr "Knapp två"
+
+#: functions/customizer/customizer-callout.php:91
+msgid "Button one"
+msgstr "Knapp ett"
+
+#: theme_setup_data.php:56 functions/customizer/customizer-callout.php:44
+msgid "Want to say hey or find out more?"
+msgstr "Vill du säga hej eller få reda på mer?"
+
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+msgid "Contact callout settings"
+msgstr "Inställningar för uppmaning att ta kontakt"
+
+#: functions.php:84 functions/breadcrumbs/breadcrumbs.php:102
+#: functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr "Sida"
+
+#: index-news.php:47 functions/template-tag.php:23
+msgid "By"
+msgstr "Av"
+
+#: index-slider.php:25 index-slider.php:33 index-slider.php:41
+#: functions.php:116 functions.php:133 content.php:12
+msgid "Read More"
+msgstr "Läs mer"
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr "Kommentera"
+
+#: comments.php:77
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: comments.php:75
+msgid "Logout from this Account"
+msgstr "Logga ut från det här kontot"
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+#: comments.php:65
+msgid "Email"
+msgstr "E-post"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:40
+msgid "Comments so far"
+msgstr "kommentarer hittills"
+
+#: comments.php:40
+msgid "1 Comment so far"
+msgstr "1 kommentar hittills"
+
+#: comments.php:40
+msgid "No Comments so far"
+msgstr "Inga kommentarer hittills"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: comments.php:26
+msgid "Edit"
+msgstr "Redigera"
+
+#: comments.php:12
+msgid "Reply"
+msgstr "Svara"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Det här inlägget är lösenordsskyddat. Ange lösenordet för att se eventuella kommentarer."
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "Bloggarkiv"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "Årsarkiv:"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "Månadsarkiv:"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Dagsarkiv:"
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "Gå tillbaka"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Sidan du söker efter finns inte."
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Hoppsan! Sidan hittades inte"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/appointment-wordpress-theme-1/"
+msgstr "https://webriti.com/appointment-wordpress-theme-1/"

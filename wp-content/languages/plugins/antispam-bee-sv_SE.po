@@ -1,0 +1,426 @@
+# Translation of Plugins - Antispam Bee - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Antispam Bee - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-23 19:41:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Antispam Bee - Stable (latest release)\n"
+
+#: antispam_bee.php:1862
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: inc/gui.class.php:540
+msgid "https://wordpress.org/support/plugin/antispam-bee"
+msgstr "https://wordpress.org/support/plugin/antispam-bee"
+
+#: inc/gui.class.php:537
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/"
+
+#: antispam_bee.php:2523
+msgid "Trackback"
+msgstr "Trackback"
+
+#: antispam_bee.php:437
+msgid "Identical Post title and blog title"
+msgstr "Identisk inläggsrubrik och bloggrubtik"
+
+#. Description of the plugin
+msgid "Antispam plugin with a sophisticated toolset for effective day to day comment and trackback spam-fighting. Built with data protection and privacy in mind."
+msgstr "Tillägg för bekämpning av skräppost med en sofistikerad uppsättning verktyg för effektiva åtgärder mot spam i kommentarer och trackbacks. Utformat med hänsyn tagen till integritetsfrågor."
+
+#: inc/gui.class.php:275
+msgid "Block or allow comments from specific countries"
+msgstr "Blockera eller tillåt kommentarer från specifika länder"
+
+#. translators: The number of spam comments Antispam Bee blocked so far.
+#: antispam_bee.php:697
+msgid "%d Blocked"
+msgstr "%d blockerad"
+
+#: antispam_bee.php:428
+msgid "Honeypot"
+msgstr "Honeypot"
+
+#: inc/gui.class.php:564
+msgid "Spanish"
+msgstr "Spanska"
+
+#: inc/gui.class.php:563
+msgid "Italian"
+msgstr "Italienska"
+
+#: inc/gui.class.php:562
+msgid "French"
+msgstr "Franska"
+
+#: inc/gui.class.php:561
+msgid "English"
+msgstr "Engelska"
+
+#: inc/gui.class.php:560
+msgid "German"
+msgstr "Tyska"
+
+#: inc/gui.class.php:537
+msgid "Manual"
+msgstr "Manual"
+
+#: inc/gui.class.php:534
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/gui.class.php:534
+msgid "https://wordpress.org/plugins/antispam-bee/faq/"
+msgstr "https://sv.wordpress.org/plugins/antispam-bee/faq/"
+
+#: inc/gui.class.php:515
+msgid "No spam check for link notifications"
+msgstr "Kontrollera inte skräppost för länknotiser"
+
+#: inc/gui.class.php:498
+msgid "Generate statistics as a dashboard widget"
+msgstr "Generea statistik i form av en widget i adminpanelen"
+
+#: inc/gui.class.php:491
+msgid "Various options"
+msgstr "Olika alternativ"
+
+#: inc/gui.class.php:442
+msgid "Pings"
+msgstr "Pings"
+
+#: inc/gui.class.php:441
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: inc/gui.class.php:402
+msgid "Spam-Notification by email"
+msgstr "Spam-meddelande via e-post"
+
+#: inc/gui.class.php:374
+msgid "Language"
+msgstr "Språk"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag.
+#: inc/gui.class.php:353
+msgid "Detect and approve only the specified language. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Detektera och godkänn endast angivet språk. Notera %1$sintegritetsinformationen%2$s för detta alternativ."
+
+#: inc/gui.class.php:346
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#allow-comments-only-in-certain-language"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#allow-comments-only-in-certain-language"
+
+#: inc/gui.class.php:340
+msgid "Allow comments only in certain language"
+msgstr "Tillåt kommentarer endast på vissa språk"
+
+#. translators: 1: opening <a> tag with link to ISO codes reference. 2: closing
+#. </a> tag.
+#: inc/gui.class.php:326
+msgid "Whitelist  %1$sISO Codes%2$s for this option."
+msgstr "Vitlista %1$sISO-koder%2$s för detta alternativ."
+
+#. translators: 1: opening <a> tag with link to ISO codes reference. 2: closing
+#. </a> tag.
+#: inc/gui.class.php:311
+msgid "Blacklist  %1$sISO Codes%2$s for this option."
+msgstr "Svartlista %1$sISO-koder%2$s för detta alternativ."
+
+#: inc/gui.class.php:305 inc/gui.class.php:320
+msgid "e.g. BF, SG, YE"
+msgstr "t.ex. BF, SG, YE"
+
+#: inc/gui.class.php:299
+msgid "https://www.iso.org/iso/country_names_and_code_elements"
+msgstr "https://www.iso.org/iso/country_names_and_code_elements"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag.
+#: inc/gui.class.php:287
+msgid "Filtering the requests depending on country. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Filtrerar förfrågningar utifrån land. Notera %1$sintegritetsinformationen%2$s för detta alternativ."
+
+#: inc/gui.class.php:281
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#block-comments-from-specific-countries"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#block-comments-from-specific-countries"
+
+#: inc/gui.class.php:268
+msgid "Check for spam data on your own blog"
+msgstr "Kontrollera efter skräppostdata på din egen blogg"
+
+#: inc/gui.class.php:260
+msgid "Predefined and custom patterns by plugin hook"
+msgstr "Fördefinierade och anpassade mönster via tilläggets åtgärds-hook"
+
+#: inc/gui.class.php:252
+msgid "Validation of the IP address used"
+msgstr "Validering av den använda IP-adressen"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag
+#: inc/gui.class.php:222
+msgid "Check if commenter has a Gravatar image. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Undersök om den som kommenterar har någon profilbild i Gravatar. För detta alternativ behöver du notera %1$sintegritetsinformationen%2$s."
+
+#: inc/gui.class.php:216
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#trust-commenters-with-a-gravatar"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#trust-commenters-with-a-gravatar"
+
+#: inc/gui.class.php:202
+msgid "No review of already commented users"
+msgstr "Ingen recension av redan kommenterade användare"
+
+#: inc/gui.class.php:540 antispam_bee.php:558
+msgid "Support"
+msgstr "Support"
+
+#: inc/gui.class.php:531 antispam_bee.php:557
+msgid "Donate"
+msgstr "Donera"
+
+#: antispam_bee.php:436
+msgid "Regular Expression"
+msgstr "Vanligt uttryck"
+
+#: antispam_bee.php:435
+msgid "Comment Language"
+msgstr "Kommentar språk"
+
+#: antispam_bee.php:434
+msgid "BBCode"
+msgstr "BBkod"
+
+#: antispam_bee.php:433
+msgid "Country Check"
+msgstr "Kontroll av land"
+
+#: antispam_bee.php:432
+msgid "Local DB Spam"
+msgstr "Spam i lokal databas"
+
+#: antispam_bee.php:431
+msgid "Fake IP"
+msgstr "Falsk ip-adress"
+
+#: antispam_bee.php:430
+msgid "Empty Data"
+msgstr "Inga uppgifter ifyllda"
+
+#: antispam_bee.php:429
+msgid "Comment time"
+msgstr "Kommentarstid"
+
+#. Author URI of the plugin
+msgid "https://pluginkollektiv.org"
+msgstr "https://pluginkollektiv.org"
+
+#. Author of the plugin
+msgid "pluginkollektiv"
+msgstr "pluginkollektiv"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/antispam-bee/"
+msgstr "https://sv.wordpress.org/plugins/antispam-bee/"
+
+#. Plugin Name of the plugin
+msgid "Antispam Bee"
+msgstr "Antispam Bee"
+
+#: inc/gui.class.php:543
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: inc/gui.class.php:523
+msgid "Check for comment forms on archive pages"
+msgstr "Kontrollera för kommentarformulär på arkivsidor"
+
+#: inc/gui.class.php:522
+msgid "Comment form used outside of posts"
+msgstr "Kommentarsformulär som används utanför inläggen"
+
+#: inc/gui.class.php:514
+msgid "Do not check trackbacks / pingbacks"
+msgstr "Kontrollera inte trackbacks / pingbacks"
+
+#: inc/gui.class.php:507
+msgid "Amount of identified spam comments"
+msgstr "Mängd identifierade spamkommentarer"
+
+#: inc/gui.class.php:506
+msgid "Spam counter on the dashboard"
+msgstr "Spamräknare på instrumentbrädan"
+
+#: inc/gui.class.php:499
+msgid "Daily updates of spam detection rate"
+msgstr "Daglig uppdatering av skräppostupptäckts-nivå"
+
+#: inc/gui.class.php:488
+msgid "More"
+msgstr "Mer"
+
+#: inc/gui.class.php:457
+msgid "For multiple selections press Ctrl/CMD"
+msgstr "För flera val tryck Ctrl/CMD"
+
+#: inc/gui.class.php:456
+msgid "Delete comments by spam reasons"
+msgstr "Radera kommentarer enligt spam-orsak"
+
+#: inc/gui.class.php:449
+msgid "Other types of spam will be deleted immediately"
+msgstr "Andra typer av spam kommer att raderas omedelbart"
+
+#. translators: %s is the select field.
+#: inc/gui.class.php:437
+msgid "Limit approval to %s"
+msgstr "Begränsa godkännande till %s"
+
+#: inc/gui.class.php:425
+msgid "Cleaning up the database from old entries"
+msgstr "Rensa upp databasen från gamla poster"
+
+#. translators: $s is an input field containing the number of days.
+#: inc/gui.class.php:421
+msgid "Delete existing spam after %s days"
+msgstr "Radera befintliga skräppost efter %s dagar"
+
+#: inc/gui.class.php:411
+msgid "Spam reason as a table column in the spam overview"
+msgstr "Orsak till klassning som skräppost som tabelkolumn i översikten över skräppost"
+
+#: inc/gui.class.php:410
+msgid "Do not save the spam reason"
+msgstr "Spara inte spamorsaken"
+
+#: inc/gui.class.php:403
+msgid "Notify admins by e-mail about incoming spam"
+msgstr "Meddela admins via e-post om inkommande spam"
+
+#: inc/gui.class.php:395
+msgid "Keep the spam in my blog."
+msgstr "Behåll spam i min blogg."
+
+#: inc/gui.class.php:394
+msgid "Mark as spam, do not delete"
+msgstr "Markera som spam, radera inte"
+
+#: inc/gui.class.php:387
+msgid "Other antispam tools"
+msgstr "Andra antispam verktyg"
+
+#: inc/gui.class.php:384
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: inc/gui.class.php:267
+msgid "Look in the local spam database"
+msgstr "Titta i den lokala spam databasen"
+
+#: inc/gui.class.php:259
+msgid "Use regular expressions"
+msgstr "Använd reguljära uttryck"
+
+#: inc/gui.class.php:251
+msgid "Validate the ip address of commenters"
+msgstr "Validera IP-adressen för kommenterare"
+
+#: inc/gui.class.php:244
+msgid "Review the comment contents for BBCode links"
+msgstr "Granska kommentar som innehåller BBCode länkar"
+
+#: inc/gui.class.php:243
+msgid "BBCode is spam"
+msgstr "BBCode är spam"
+
+#: inc/gui.class.php:236
+msgid "Not recommended when using page caching"
+msgstr "Rekommenderas inte om du använder sidcachning"
+
+#: inc/gui.class.php:235
+msgid "Consider the comment time"
+msgstr "Tänk på kommentartiden"
+
+#: inc/gui.class.php:210
+msgid "Trust commenters with a Gravatar"
+msgstr "Lita på kommenterare med Gravatar"
+
+#: inc/gui.class.php:201
+msgid "Trust approved commenters"
+msgstr "Lita på godkända kommenterare"
+
+#: inc/gui.class.php:194
+msgid "Filter in the execution order"
+msgstr "Filter i utförandeordning"
+
+#: inc/gui.class.php:191
+msgid "Antispam filter"
+msgstr "Antispam-filter"
+
+#: inc/gui.class.php:25 inc/gui.class.php:29
+msgid "Cheatin&#8217; uh?"
+msgstr "Fuskar du eller?"
+
+#: antispam_bee.php:2559
+msgid "http://antispambee.com"
+msgstr "http://antispambee.com"
+
+#: antispam_bee.php:2558
+msgid "Notify message by Antispam Bee"
+msgstr "Notifiering från Antispam Bee"
+
+#: antispam_bee.php:2554
+msgid "Spam list"
+msgstr "Skräppostlista"
+
+#: antispam_bee.php:2550
+msgid "Approve it"
+msgstr "Godkänn det"
+
+#: antispam_bee.php:2544
+msgid "Delete it"
+msgstr "Radera det"
+
+#: antispam_bee.php:2538
+msgid "Trash it"
+msgstr "Kasta det"
+
+#: inc/gui.class.php:468 inc/columns.class.php:28 antispam_bee.php:2529
+msgid "Spam Reason"
+msgstr "Spam Anledning"
+
+#: antispam_bee.php:2522
+msgid "Type"
+msgstr "Typ"
+
+#: antispam_bee.php:2514
+msgid "Author"
+msgstr "Skapare"
+
+#: antispam_bee.php:2510
+msgid "New spam comment on your post"
+msgstr "Ny spam kommentar ditt inlägg"
+
+#: antispam_bee.php:2503
+msgid "Content removed by Antispam Bee"
+msgstr "Innehållet avlägsnades av Antispam Bee"
+
+#: antispam_bee.php:2495
+msgid "Comment marked as spam"
+msgstr "Kommentar markeras som skräppost"
+
+#: antispam_bee.php:804
+msgid "No data available."
+msgstr "Inga data tillgängliga."
+
+#: antispam_bee.php:533
+msgid "Settings"
+msgstr "Inställningar"

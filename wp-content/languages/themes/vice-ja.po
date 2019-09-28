@@ -1,0 +1,178 @@
+# Translation of Themes - vice in Japanese
+# This file is distributed under the same license as the Themes - vice package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-15 05:43:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - vice\n"
+
+#. Description of the plugin/theme
+msgid "Blogging theme"
+msgstr "ブログ用テーマ"
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr "vice"
+
+#: functions.php:274
+msgid "Vice Theme Layout"
+msgstr "Vice テーマレイアウト"
+
+#: functions.php:211
+msgid "About Vice Theme"
+msgstr "Vice テーマについて"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのものが見つからないようです。検索すると良いかもしれません。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: template-parts/content-home.php:52 template-parts/content-search.php:28
+#: template-parts/content.php:39
+msgid "Read More"
+msgstr "続きを読む"
+
+#: template-parts/content-home.php:45 template-parts/content-page.php:19
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "ページ:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71 template-parts/content-page.php:30
+msgid "Edit %s"
+msgstr "%s を編集"
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者 %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日 %s"
+
+#: header.php:43
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "メイン"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "最もよく使われるカテゴリー"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com"
+msgstr "https://webriti.com"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://github.com/saumya010/vice"
+msgstr "http://github.com/saumya010/vice"

@@ -1,0 +1,1354 @@
+# Translation of Themes - Appointment in Ukrainian
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-17 20:00:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Description of the theme
+msgid "Appointment WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout and much more. In the premium version you can add different type of slides like video, aside, quote, status and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts and many sections for business using the Homepage template. Appointment theme comes with various locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "Appointment — це адаптивна тема WordPress, готова до перекладу. Дозволяє створювати неперевершені блоги і сайти. Добре підходить для компаній, юридичних фірм, туристичних агенцій, фотостудій, кулінарних, дизайнерських, мистецьких, приватних і інших креативних сайтів і блогів. Тема розроблена з використанням Bootstrap 3, що робить її дружньою до мобільних телефонів і планшетів. Вона має різноманітні опції для зміни вигляду теми, доступні у налаштовувачі WordPress. Налаштовувач теми можна використовувати для додавання користувацьких заголовків, іконок, логотипів, слайдів, послуг, закликів до дії тощо. У преміум-версії можна додати різні види слайдів, такі як відео, бокові, цитати, статуси і стандартні, кожен з яких має різний HTML вигляд. Тема пропонує вбудовані віджети; бокові панелі з підтримкою WPML, підтримку плагіну для перекладу Polylang і плагін Contact Form 7; шаблони портфоліо, зворотного зв'язку, портфоліо з колонковою розміткою та багато розділів для бізнесу за допомогою шаблону головної сторінки. Тема Appointment підтримує багато локалізацій. Перейдіть до Зовнішній вигляд -> Налаштування для початку налаштування."
+
+#. Theme Name of the theme
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:75
+msgid "<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: <a href=\"https://webriti.com\" rel=\"designer\">Appointment</a> by Webriti"
+msgstr "<a href=\"https://wordpress.org\">З гордістю працює на WordPress</a> | Тема: <a href=\"https://webriti.com\" rel=\"designer\">Appointment</a> від Webriti"
+
+#: functions/breadcrumbs/breadcrumbs.php:94
+msgid "Articles posted by"
+msgstr "Статті за авторством"
+
+#: functions/breadcrumbs/breadcrumbs.php:89
+msgid "Posts tagged"
+msgstr "Позначені записи"
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "Результати пошуку для "
+
+#: functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "Архів за категорією"
+
+#: functions.php:146
+msgid ""
+"Click the large blue button to start the dummy data import process.<br /><br />Please be patient while WordPress imports all the content.<br /><br />\n"
+"\t\t\t<h3>Recommended Plugins</h3> Appointment theme supports the following plugins:<br /><br /><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact Form 7</a> </li> <br /><br /> <li> <a href=\"https://wordpress.org/plugins/bootstrap-3-shortcodes/\"> Bootstrap Shortcodes</a> </li>"
+msgstr ""
+"Натисніть велику блакитну кнопку для початку процесу імпорту тестових даних.<br /><br />Будь ласка, будьте терплячими, поки WordPress імпортує контент.<br /><br />\n"
+"\t\t\t<h3>Рекомендовані плагіни</h3> Тема Appointment підтримує такі плагіни:<br /> <br /><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact Form 7</a> </li> <br /><br /> <li> <a href=\"https://wordpress.org/plugins/bootstrap-3-shortcodes/\"> Bootstrap Shortcodes</a> </li>"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr "Посилання для отримання іконок Font Awesome"
+
+#: functions/customizer/customizer_theme_style.php:12
+msgid "Want to use the predefined theme colors seen below?"
+msgstr "Хочете використати заздалегідь налаштовані кольори, такі як внизу?"
+
+#: functions/customizer/customizer-slider.php:5
+msgid "Want a greater variety of slides, just like our premium version?"
+msgstr "Хочете більше різноманіття слайдів, як у преміум-версії?"
+
+#: functions/customizer/customizer-service.php:453
+msgid "Add more services. Get Pro."
+msgstr "Додати більше послуг. Отримати Про."
+
+#: functions/appointment-info/sections/github.php:71
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Цей розділ часто використовується для відображення свіжих новин, оголошень та подій."
+
+#: functions/appointment-info/sections/github.php:53
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Ви можете відображати будь-яку кількість послуг на головній сторінці за допомогою тисяч доступних іконок Font Awesome. Ви також можете відображати набір послуг на окремій сторінці за допомогою шаблону сторінки послуг."
+
+#: functions/appointment-info/sections/github.php:34
+msgid "There are beautifully styled navigation/menus in the Appointment theme. You can make multi level menus, which means you can create sub menus."
+msgstr "Appointment має чудово оформлену навігацію та меню. Ви можете створювати підменю і багаторівневі меню."
+
+#: functions/appointment-info/welcome-screen.php:209
+#: functions/appointment-info/sections/github.php:11
+msgid "Why Upgrade to Pro?"
+msgstr "Навіщо оновлюватись до Про?"
+
+#: functions/appointment-info/sections/free_pro.php:75
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "За допомогою WPML ви можете створити багатомовний сайт."
+
+#: functions/appointment-info/sections/child-themes.php:171
+msgid "SHK Corporate - Current theme"
+msgstr "SHK Corporate — Поточна тема"
+
+#: functions/appointment-info/sections/child-themes.php:156
+#: functions/appointment-info/sections/child-themes.php:162
+msgid "SHK Corporate"
+msgstr "SHK Corporate"
+
+#: functions/appointment-info/sections/child-themes.php:154
+msgid "SHK Corporate Child Theme"
+msgstr "Дочірня тема SHK Corporate"
+
+#: category.php:9
+msgid "Category Archive"
+msgstr "Архів категорії"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : Інформаційний віджет"
+
+#: functions/customizer/customizer-template.php:139
+msgid "Service page settings"
+msgstr "Налаштування сторінки з послугами"
+
+#: functions/customizer/customizer-template.php:92
+msgid "Blog page settings"
+msgstr "Налаштування сторінки блогу"
+
+#: functions/customizer/customizer-template.php:66
+msgid "About Us page settings"
+msgstr "Налаштування сторінки «Про нас»"
+
+#: functions/customizer/customizer-callout.php:80
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: functions/appointment-info/sections/free_pro.php:123
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Callout, Portfolio [Unlimited Projects], Latest News, Clients, Testimonials and Custom Widgets"
+msgstr "Верхній заголовок, слайдер [необмежений], послуги [необмежені], заклик до дії, портфоліо [необмежене], свіжі новини, клієнти, відгуки, користувацькі віджети"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Приховати соціальні іконки у підвалі"
+
+#: tag.php:12
+msgid "Tag Archive"
+msgstr "Архів теґу"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "Результати пошуку для "
+
+#: index-slider.php:24 index-slider.php:32 index-slider.php:40
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "Це дуже потужна тема, що може використовуватись для будь-якого типу бізнесу. Дизайн простий і елегантний."
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Область віджетів бічної панелі"
+
+#: functions/customizer/customizer_theme_style.php:89
+msgid "Enable custom color skin"
+msgstr "Увімкнути користувацький колір обкладинки"
+
+#: functions/customizer/customizer-testimonial.php:115
+#: functions/customizer/customizer-slider.php:124
+msgid "Duration"
+msgstr "Тривалість"
+
+#: functions/customizer/customizer-testimonial.php:114
+msgid "If the transition-delay value is 2000 that means 2 seconds."
+msgstr "Якщо затримка переходу дорівнює 2000, це означає 2 секунди."
+
+#: functions/customizer/customizer-testimonial.php:91
+msgid "Animation"
+msgstr "Анімація"
+
+#: functions/customizer/customizer-testimonial.php:19
+msgid "Homepage testimonial settings"
+msgstr "Налаштування відгуків домашньої сторінки"
+
+#: functions/customizer/customizer-testimonial.php:5
+msgid "Want to add testimonials? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете додати відгуки? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-template.php:569
+msgid "Hide contact callout from Contact page"
+msgstr "Приховати заклик до дії зі сторінки контактів"
+
+#: functions/customizer/customizer-template.php:357
+msgid "Section description"
+msgstr "Опис розділу"
+
+#: functions/customizer/customizer-template.php:341
+msgid "Section title"
+msgstr "Заголовок розділу"
+
+#: functions/customizer/customizer-template.php:325
+msgid "Hide contact info section from Contact page"
+msgstr "Приховати розділ із контактною інформацією зі сторінки контактів"
+
+#: functions/customizer/customizer-template.php:47
+msgid "Want to add contact callout information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете додати заклик до дії до шаблону контактної сторінки? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-template.php:39
+msgid "Want to add contact address information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете додати контактну адресу до шаблону контактної сторінки? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-template.php:31
+msgid "Want to add contact form information and a contact map in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете додати контактну форму і контактну карту до шаблону контактної сторінки? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-template.php:24
+msgid "Want to use the blog meta settings? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете використати налаштування мета блогу?<a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-template.php:15
+msgid "Want to add more services, testimonials, clients, footer callouts in the Service template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете додати більше послуг, відгуків, клієнтів, закликів до дії у подвалі до шаблону сторінки послуг? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-template.php:7
+msgid "Want to add a company About Us, Team, Client, footer, callout with the About template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Хочете додати розділ про компанію, команду, клієнтів, підвал, заклики до дії до шаблону сторінки про нас? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-testimonial.php:93
+#: functions/customizer/customizer-slider.php:106
+msgid "fade"
+msgstr "зникнення"
+
+#: functions/customizer/customizer-slider.php:39
+msgid "Hide slider from homepage"
+msgstr "Приховати слайдер з головної сторінки"
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Приховати розділ послуг з головної сторінки"
+
+#: functions/customizer/customizer-project.php:21
+msgid "Homepage project settings"
+msgstr "Налаштування проекту на головній сторінці"
+
+#: functions/customizer/customizer-news.php:53
+msgid "Hide post meta from News section"
+msgstr "Приховати мета запису з розділу новин"
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from Homepage"
+msgstr "Приховати розділ новин з головної сторінки"
+
+#: functions/customizer/customizer-header.php:316
+#: functions/customizer/customizer-header.php:329
+msgid "Custom CSS"
+msgstr "Користувацькі CSS"
+
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:154
+#: functions/customizer/customizer-service.php:216
+#: functions/customizer/customizer-service.php:278
+#: functions/customizer/customizer-service.php:340
+#: functions/customizer/customizer-service.php:403
+#: functions/customizer/customizer-template.php:371
+#: functions/customizer/customizer-template.php:425
+#: functions/customizer/customizer-template.php:480
+#: functions/customizer/customizer-footer-callout.php:70
+#: functions/customizer/customizer-footer-callout.php:125
+#: functions/customizer/customizer-footer-callout.php:181
+msgid "Icon"
+msgstr "Іконка"
+
+#: functions/customizer/customizer-footer-callout.php:54
+msgid "Callout Header"
+msgstr "Заголовок заклику до дії"
+
+#: functions/customizer/customizer-footer-callout.php:47
+msgid "Stay in touch with us"
+msgstr "Залишайтеся з нами на зв'язку"
+
+#: functions/customizer/customizer-template.php:661
+#: functions/customizer/customizer-callout.php:148
+#: functions/customizer/customizer-callout.php:200
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+#: functions/customizer/customizer-header.php:235
+#: functions/customizer/customizer-header.php:274
+#: functions/customizer/customizer-header.php:310
+msgid "Open link in new tab"
+msgstr "Відкрити посилання у новій вкладці"
+
+#: functions/customizer/customizer-template.php:643
+#: functions/customizer/customizer-callout.php:132
+#: functions/customizer/customizer-callout.php:184
+msgid "Button Link"
+msgstr "Посилання кнопки"
+
+#: functions/customizer/customizer-template.php:624
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-callout.php:167
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: functions/customizer/customizer-callout.php:34
+msgid "Hide callout section from homepage"
+msgstr "Приховати розділ заклику до дії з головної сторінки"
+
+#: functions/appointment-info/sections/github.php:98
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "Ми пропонуємо набір статей, що допоможуть вам створювати ефективні сайти. Статті доступні у <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>розділі допомоги</a>."
+
+#: functions/appointment-info/sections/free_pro.php:137
+msgid "Webriti Support Forum"
+msgstr "Форум підтримки Webriti"
+
+#: functions/appointment-info/sections/free_pro.php:125
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Про нас, послуги, портфоліо, блог з лівою і правою бічною колонкою, блог на всю ширину, сторінка на всю ширину, сторінка контактів і багато іншого."
+
+#: functions/appointment-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr "Форум підтримки WordPress"
+
+#: functions/appointment-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Шаблон головної сторінки і шаблон на всю ширину"
+
+#: functions/appointment-info/sections/free_pro.php:95
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "Слайдер [необмежений], область віджетів під слайдером, послуги [6 послуг], розділ заклику до дії, свіжі новини"
+
+#: comments.php:75
+msgid "Logout"
+msgstr "Вихід"
+
+#: functions/customizer/customizer-footer-callout.php:5
+msgid "Want to add footer callout content?<a href='http://www.webriti.com/appointment' target='_blank'> Upgrade to Pro</a>."
+msgstr "Хочете додати контент заклику до дії у підвалі? <a href='http://www.webriti.com/appointment' target='_blank'>Оновіться до Про</a>"
+
+#: functions/customizer/customizer-service.php:13
+#: functions/customizer/customizer-client.php:21
+msgid "Section Heading"
+msgstr "Заголовок розділу"
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr "Залиште ваше повідомлення"
+
+#: comments.php:64
+msgid "Name"
+msgstr "Назва"
+
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Щоб відправити коментар вам необхідно <a href=\"%s\">авторизуватись</a>."
+
+#: comments.php:24
+msgid "Posted on"
+msgstr "Опубліковано"
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "Архів автора"
+
+#: functions/breadcrumbs/breadcrumbs.php:97 404.php:9
+msgid "Error 404"
+msgstr "Помилка 404"
+
+#: functions/customizer/customizer-emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr "ПРИЄДНАТИСЯ ДО КУРСУ"
+
+#: functions/customizer/customizer-emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "В цьому email-курсі я пропоную 4 дієвих підказки, як побудувати надійний сайт, що, в свою чергу, принесе більше можливостей вам."
+
+#: functions/customizer/customizer-emailcourse.php:23
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Вважайте ваш сайт за важко працюючого продавця, що працює цілодобово і не просить надбавки!"
+
+#: functions/customizer/customizer-emailcourse.php:21
+msgid "To bring you more business."
+msgstr "Принести більше можливостей для бізнесу."
+
+#: functions/customizer/customizer-emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Сайт існує лише з однією єдиною метою:"
+
+#: functions/customizer/customizer-emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "СТВОРИТИ НАДІЙНІ САЙТИ"
+
+#: functions/appointment-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr "Дочірні теми"
+
+#: functions/appointment-info/welcome-screen.php:210
+msgid "Free vs PRO"
+msgstr "Free чи PRO"
+
+#: functions/appointment-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr "Необхідні дії"
+
+#: functions/appointment-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr "Починаємо"
+
+#: functions/appointment-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr "Переглянути інформацію по темі"
+
+#: functions/appointment-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Ура! Наразі немає необхідних дій."
+
+#: functions/appointment-info/welcome-screen.php:57
+msgid "Get started with Appointment Lite"
+msgstr "Розпочати з Appointment Lite"
+
+#: functions/appointment-info/welcome-screen.php:56
+msgid "Welcome! Thank you for choosing Appointment Lite! To take full advantage of the best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr "Вітаємо! Дякуємо за вибір Appointment Lite! Щоб скористатися усіма перевагами, що пропонує наша тема, будь ласка, переконайтеся, що ви відвідали %sвітальну сторінку%s."
+
+#: functions/appointment-info/sections/github.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Тема підтримує ще один відомий плагін — WPML. За допомогою цього ви можете створювати сайти доступні багатьма мовами."
+
+#: functions/appointment-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "Готова для перекладу"
+
+#: functions/appointment-info/sections/github.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Дуже просто створювати сайти за допомогою наших користувацьких віджетів. Просто розташуйте їх всередині бічної колонки або навіть в контенті."
+
+#: functions/appointment-info/sections/github.php:106
+msgid "Custom widget"
+msgstr "Користувацький віджет"
+
+#: functions/appointment-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "Добре задокументована"
+
+#: functions/appointment-info/sections/github.php:89
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "Ви отримаєте 13 передвстановлених кольорових схем, також ви можете створити власні палітри за допомогою користувацьких налаштувань кольорів у налаштовувачі."
+
+#: functions/appointment-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Відгуки — це могутній засіб для завоювання авторитету. Ви можете відображати відгуки за допомогою ефекту каруселі."
+
+#: functions/appointment-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "Особливості відгуків"
+
+#: functions/appointment-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "Розділ свіжих новин"
+
+#: functions/appointment-info/sections/github.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Відображайте будь-яку кількість проектів. Ця тема дозволяє створювати розмітку на 2, 3 або 4 колонки за допомогою відповідних шаблонів розмітки. Ці шаблони стануть в нагоді, якщо у вас є багато проектів. Також ви можете створювати портфоліо за категоріями та відображати всі категорії портфоліо в одному місці. Насправді ми створили цю тему саме для використання будь-якої кількості різних портфоліо."
+
+#: functions/appointment-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "Особливості портфоліо"
+
+#: functions/appointment-info/sections/github.php:51
+msgid "Service Features"
+msgstr "Особливості послуг"
+
+#: functions/appointment-info/sections/github.php:43
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Ви можете створювати необмежені слайди, які контролюються налаштуваннями у Зовнішній вигляд — Налаштування. Слайдер підтримує різноманітні формати, такі як стандартний, боковий, чат і відео."
+
+#: functions/appointment-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr "Слайдер заголовку"
+
+#: functions/appointment-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "Багаторівнева навігація"
+
+#: functions/appointment-info/sections/github.php:25
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "У преміум-версії ви отримуєте область бокової колонки заголовка, де ви можете використати будь-який віджет, усі віджети стилізовано. Ми створили декілька віджетів у темі, які ви можете використати тут. Зокрема, використайте інформаційний віджет Appointment для відображення електронної пошти, контактного номеру або будь-якої іншої інформації на ваш вибір."
+
+#: functions/appointment-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "Розділ верхнього заголовку"
+
+#: functions/appointment-info/sections/github.php:17
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Ця функція допомагає перейменувати слаґ з URL, зробивши його більш дружнім до SEO."
+
+#: functions/appointment-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "Ваш відгук важливий для нас"
+
+#: functions/appointment-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr "Деталі преміум теми"
+
+#: functions/appointment-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr "Преміум-підтримка теми"
+
+#: functions/appointment-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr "Про-демо"
+
+#: functions/appointment-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Лайт-демо"
+
+#: functions/appointment-info/sections/getting-started.php:38
+msgid "Useful Links"
+msgstr "Корисні посилання"
+
+#: functions/appointment-info/sections/getting-started.php:22
+msgid "You can use this theme for any type of business. It is compatible with popular plugins like Contact Form 7, WPML, Polylang, etc. The theme has a predefined version of a Contact page, Services page, Portfolio, column layout pages, About Us and Blog layout pages, helping you to create an effective web presence."
+msgstr "Ви можете використовувати цю тему для будь-якого виду діяльності. Вона сумісна з такими популярними плагінами як Contact Form 7, WPML, Polylang тощо. Щоб допомогти вам у створенні ефективної і впливової онлайн-присутності,  тема має наперед встановлені версії багатьох сторінок: контакти, послуги, портфоліо, сторінки з колонковою розміткою, про нас і блог."
+
+#: functions/appointment-info/sections/getting-started.php:20
+msgid "This is a Business theme which is ideal for creating corporate, business, fashion and sports websites. The premium version has tons of features. The Homepage has a number of sections for showing sliders, your portfolio, user reviews, latest news, services, call to action and much more. Each section in the HomePage Template is well designed according to business requirements."
+msgstr "Ця тема ідеальна для створення корпоративних, бізнес, модних і спортивних сайтів. Преміум-версія  має безліч функцій: головна сторінка з багатьма розділами для відображення слайдерів, портфоліо, відгуків користувачів, свіжих новин, послуг, закликів до дії тощо. Кожен розділ у шаблоні головної сторінки дбайливо створений для задоволення усіх бізнес-потреб."
+
+#: functions/appointment-info/sections/getting-started.php:14
+msgid "About Appointment Theme"
+msgstr "Про тему Appointment"
+
+#: functions/appointment-info/sections/free_pro.php:148
+msgid "Get Appointment PRO Now!"
+msgstr "Отримати Appointment PRO зараз!"
+
+#: functions/appointment-info/sections/free_pro.php:119
+msgid "Appointment Pro"
+msgstr "Appointment Pro"
+
+#: functions/appointment-info/sections/free_pro.php:91
+msgid "Appointment Lite"
+msgstr "Appointment Lite"
+
+#: functions/appointment-info/sections/free_pro.php:80
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Отримайте підтримку 24/7 на форумі підтримки."
+
+#: functions/appointment-info/sections/free_pro.php:79
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: functions/appointment-info/sections/free_pro.php:74
+msgid "WPML / Polylang Support"
+msgstr "Підтримка WPML і Polylang"
+
+#: functions/appointment-info/sections/free_pro.php:69
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Відображайте відгуки користувачів на головній сторінці і сторінці послуг."
+
+#: functions/appointment-info/sections/free_pro.php:68
+msgid "Testimonial / Review Section"
+msgstr "Розділ відгуків й оглядів."
+
+#: functions/appointment-info/sections/free_pro.php:64
+msgid "Show all your services in a single place."
+msgstr "Відображайте усі ваші послуги в одному місці."
+
+#: functions/appointment-info/sections/free_pro.php:63
+msgid "Services Page"
+msgstr "Сторінка послуг"
+
+#: functions/appointment-info/sections/free_pro.php:59
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "Відображайте членів команди, клієнтів і користувацький контент, доданий у редакторі WordPress."
+
+#: functions/appointment-info/sections/free_pro.php:58
+msgid "About Us Page"
+msgstr "Сторінка «Про нас»"
+
+#: functions/appointment-info/sections/free_pro.php:54
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Презентуйте колекцію проектів або портфоліо у 2-, 3- або 4-колоночних розмітках. Ви також можете відображати проекти і портфоліо за категоріями."
+
+#: functions/appointment-info/sections/free_pro.php:53
+msgid "Portfolio"
+msgstr "Портфоліо"
+
+#: functions/appointment-info/sections/free_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Відображайте розташування вашого магазину або бізнесу на сайті за допомогою карт Google."
+
+#: functions/appointment-info/sections/free_pro.php:47
+msgid "Google Maps"
+msgstr "Карта Google"
+
+#: functions/appointment-info/sections/free_pro.php:43
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "Насолоджуйтесь будь-якою з 13 наперед встановлених кольорових схем або створіть власну без написання будь-якого коду."
+
+#: functions/appointment-info/sections/github.php:88
+#: functions/appointment-info/sections/free_pro.php:42
+msgid "Multiple Color Schemes"
+msgstr "Багато кольорових схем"
+
+#: functions/appointment-info/sections/free_pro.php:38
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Ця функція допомагає перейменувати слаґ типу користувацького запису у URL."
+
+#: functions/appointment-info/sections/github.php:16
+#: functions/appointment-info/sections/free_pro.php:37
+msgid "SEO Friendly URL"
+msgstr "URL дружній до SEO"
+
+#: functions/appointment-info/sections/free_pro.php:33
+msgid "Contact Form Support"
+msgstr "Підтримка контактної форми"
+
+#: functions/appointment-info/sections/free_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "Адаптивний дизайн на усіх пристроях"
+
+#: functions/appointment-info/sections/free_pro.php:28
+msgid "Mobile Friendly"
+msgstr "Мобільна"
+
+#: functions/appointment-info/sections/free_pro.php:24
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "Різноманітні шаблони сторінок, включені до преміум-теми Appointment"
+
+#: functions/appointment-info/sections/free_pro.php:23
+msgid "Page Templates Support"
+msgstr "Підтримка шаблонів сторінки"
+
+#: functions/appointment-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Ви знайдете декілька розділів на головній сторінці."
+
+#: functions/appointment-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Розділ головної сторінки"
+
+#: functions/appointment-info/sections/free_pro.php:13
+msgid "Features"
+msgstr "Особливості"
+
+#: functions/appointment-info/sections/child-themes.php:124
+msgid "Mandy"
+msgstr "Mandy"
+
+#: functions/appointment-info/sections/child-themes.php:107
+#: functions/appointment-info/sections/child-themes.php:139
+msgid "Appointment Red - Current theme"
+msgstr "Appointment Red — Поточна тема"
+
+#: functions/appointment-info/sections/child-themes.php:92
+msgid "Appointment Red"
+msgstr "Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:90
+#: functions/appointment-info/sections/child-themes.php:122
+msgid "Appointment Red Child Theme"
+msgstr "Дочірня тема Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:75
+msgid "Appointment - Current theme"
+msgstr "Appointment — Поточна тема"
+
+#: functions/appointment-info/sections/child-themes.php:60
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:58
+msgid "Appointment Green Child Theme"
+msgstr "Дочірня тема Appointment Green "
+
+#: functions/appointment-info/sections/child-themes.php:45
+#: functions/appointment-info/sections/child-themes.php:76
+#: functions/appointment-info/sections/child-themes.php:108
+#: functions/appointment-info/sections/child-themes.php:140
+#: functions/appointment-info/sections/child-themes.php:172
+msgid "Customize"
+msgstr "Налаштувати"
+
+#: functions/appointment-info/sections/child-themes.php:44
+msgid "Appointment Blue - Current theme"
+msgstr "Appointment Blue — Поточна тема"
+
+#: functions/appointment-info/sections/child-themes.php:38
+#: functions/appointment-info/sections/child-themes.php:69
+#: functions/appointment-info/sections/child-themes.php:101
+#: functions/appointment-info/sections/child-themes.php:133
+#: functions/appointment-info/sections/child-themes.php:165
+msgid "Live Preview"
+msgstr "Попередній перегляд"
+
+#: functions/appointment-info/sections/child-themes.php:37
+#: functions/appointment-info/sections/child-themes.php:68
+#: functions/appointment-info/sections/child-themes.php:100
+#: functions/appointment-info/sections/child-themes.php:132
+#: functions/appointment-info/sections/child-themes.php:164
+msgid "Install %s now"
+msgstr "Встановити %s"
+
+#: functions/appointment-info/sections/child-themes.php:29
+msgid "Appointment Blue"
+msgstr "Appointment Blue"
+
+#: functions/appointment-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Appointment child themes that will totally transform the look of your site."
+msgstr "Нижче ви знайдете колекцію дочірніх тем Appointment, що повністю змінять вигляд вашого сайту."
+
+#: functions/appointment-info/sections/child-themes.php:16
+msgid "Install & Use Appointment Child Themes"
+msgstr "Встановити і використати дочірні теми Appointment"
+
+#: functions/appointment-info/sections/actions-required.php:30
+#: functions/appointment-info/sections/actions-required.php:37
+#: functions/appointment-info/sections/getting-started.php:28
+#: functions/appointment-info/sections/child-themes.php:27
+msgid "Appointment Blue Child Theme"
+msgstr "Дочірня тема Appointment Blue"
+
+#: functions/appointment-info/sections/actions-required.php:22
+msgid "Do you want to show the Homepage as a Front Page? You need to set the Homepage as a static page, as shown in the snapshot below. Now go to the Customizer and start configuring the sections in the Business Template. We hope you will find this theme useful."
+msgstr "Хочете відображати головну сторінку як початкову? Вам необхідно встановити статичну сторінку у якості головної сторінки, як показано на малюнку нижче. Тепер перейдіть до налаштовувача і розпочніть налаштування розділів у бізнес-шаблоні. Сподіваємося, ця тема стане вам у нагоді."
+
+#: functions/appointment-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Display"
+msgstr "2. Встановіть головну сторінку як початкову для відображення"
+
+#: functions/appointment-info/sections/actions-required.php:14
+msgid "To set up an exact replica of the Homepage as shown in our demo, you have to create a WordPress page using the Home Page Template. The Business Template has all the sections like banners, services, portfolio, etc., which are ideal for any business site. Kindly refer to the snapshot."
+msgstr "Щоб налаштувати точну копію запропонованої головної сторінки, як у нашому демо, створіть сторінку WordPress за допомогою шаблона головної сторінки. Бізнес-шаблон пропонує усі розділи, такі як банери, послуги, портфоліо, тощо. Вони ідеально підходять для будь-якого бізнес-сайту. Звіртеся зі знімком."
+
+#: functions/appointment-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr "1. Створіть головну сторінку за допомогою шаблону головної сторінки."
+
+#: functions/customizer/customizer-template.php:127
+msgid "Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr "Приховати мета записів на сторінках блогу, архіву, категорій, авторів тощо."
+
+#: functions/customizer/customizer-template.php:434
+msgid "Our office location"
+msgstr "Розташування нашого офісу"
+
+#: functions/customizer/customizer-testimonial.php:13
+msgid "Testimonial settings"
+msgstr "Налаштування відгуків"
+
+#: functions/customizer/customizer-testimonial.php:46
+msgid "What our clients say:"
+msgstr "Що кажуть наші клієнти:"
+
+#: functions/customizer/customizer-testimonial.php:61
+#: functions/customizer/customizer-template.php:350
+msgid "Read what customers are saying:"
+msgstr "Прочитайте, що кажуть наші клієнти:"
+
+#: functions/customizer/customizer-testimonial.php:129
+msgid "Click here to add testimonial"
+msgstr "Натисніть тут, щоб додати відгук"
+
+#: functions/customizer/customizer_theme_style.php:13
+#: functions/customizer/customizer_theme_style.php:54
+msgid "Predefined colors"
+msgstr "Передвстановлені кольори"
+
+#: functions/customizer/customizer_theme_style.php:40
+msgid "Theme style setting"
+msgstr "Налаштування стилів теми"
+
+#: functions/customizer/customizer_theme_style.php:108
+msgid "Skin color"
+msgstr "Колір обкладинки"
+
+#: functions/customizer/customizer-client.php:5
+msgid "Want to add a client image and link?"
+msgstr "Бажаєте додати зображення клієнта і посилання?"
+
+#: functions/customizer/customizer-pro.php:20
+#: functions/customizer/customizer-client.php:5
+#: functions/customizer/customizer-slider.php:5
+#: functions/customizer/customizer_theme_style.php:12
+#: functions/customizer/customizer-project.php:6
+msgid "Upgrade to Pro"
+msgstr "Оновити до Про"
+
+#: functions/customizer/customizer-client.php:15
+msgid "Client settings"
+msgstr "Налаштування клієнта"
+
+#: functions/customizer/customizer-testimonial.php:35
+#: functions/customizer/customizer-template.php:82
+#: functions/customizer/customizer-template.php:107
+#: functions/customizer/customizer-template.php:156
+#: functions/customizer/customizer-template.php:185
+#: functions/customizer/customizer-template.php:305
+#: functions/customizer/customizer-template.php:547
+#: functions/customizer/customizer-client.php:35
+#: functions/customizer/customizer-slider.php:157
+#: functions/customizer/customizer-footer-callout.php:35
+#: functions/customizer/customizer-project.php:37
+msgid "Appointment upgrade"
+msgstr "Оновлення Appointment"
+
+#: functions/customizer/customizer-footer-callout.php:14
+#: functions/customizer/customizer-footer-callout.php:21
+msgid "Footer callout settings"
+msgstr "Налаштування заклику до дії у підвалі"
+
+#: functions/customizer/customizer-footer-callout.php:134
+msgid "We are open Mon - Fri"
+msgstr "Відчинено Пн - Пт"
+
+#: functions/customizer/customizer-footer-callout.php:154
+msgid "Mon - Fri : 08.00 - 18.00"
+msgstr "Пн - Пт: 08:00 - 18:00"
+
+#: functions/customizer/customizer-template.php:489
+#: functions/customizer/customizer-footer-callout.php:190
+msgid "Drop us a mail"
+msgstr "Напишіть нам"
+
+#: functions/customizer/customizer-project.php:6
+msgid "Want to add projects and categorization?"
+msgstr "Бажаєте додати проекти і категорії?"
+
+#: functions/customizer/customizer-project.php:15
+msgid "Project settings"
+msgstr "Налаштування проекту"
+
+#: functions/customizer/customizer-project.php:48
+msgid "Latest projects"
+msgstr "Останні проекти"
+
+#: functions/customizer/customizer-project.php:105
+msgid "Click here to add project"
+msgstr "Натисніть тут, щоб додати проект"
+
+#: functions/customizer/customizer-project.php:91
+msgid "Input number of projects"
+msgstr "Обрати кількість проектів"
+
+#: functions/customizer/customizer-project.php:135
+msgid "Select project category archive column layout"
+msgstr "Обрати розмітку колонок для архіву проектних категорій"
+
+#: functions/customizer/customizer-template.php:59
+msgid "Template settings"
+msgstr "Налаштування шаблонів"
+
+#: functions/customizer/customizer-template.php:169
+msgid "Contact page setting"
+msgstr "Налаштування контактної сторінки"
+
+#: functions/customizer/customizer-template.php:195
+msgid "Send us a message"
+msgstr "Надішліть нам повідомлення"
+
+#: functions/customizer/customizer-template.php:202
+msgid "Contact form title"
+msgstr "Заголовок контактної форми"
+
+#: functions/customizer/customizer-template.php:220
+msgid "Hide Google Maps"
+msgstr "Сховати Google Карти"
+
+#: functions/customizer/customizer-template.php:230
+msgid "Find the address"
+msgstr "Знати адресу"
+
+#: functions/customizer/customizer-template.php:237
+msgid "Contact Google Map title"
+msgstr "Заголовок контактної карти Google"
+
+#: functions/customizer/customizer-template.php:253
+msgid "Google Maps URL"
+msgstr "URL Google Карти"
+
+#: functions/customizer/customizer-template.php:267
+msgid "Click here to add Google Maps"
+msgstr "Натисніть тут, щоб додати Google Карти"
+
+#: functions/customizer/customizer-template.php:290
+msgid "Contact information settings"
+msgstr "Налаштування контактної інформації"
+
+#: functions/customizer/customizer-template.php:334
+#: functions/customizer/customizer-template.php:579
+msgid "Contact info"
+msgstr "Контактна інформація"
+
+#: functions/widgets/sidebars.php:35 functions/widgets/sidebars.php:37
+msgid "Right widget area below slider"
+msgstr "Область для віджетів праворуч під слайдером"
+
+#: functions/widgets/sidebars.php:44 functions/widgets/sidebars.php:46
+msgid "Center widget area below slider"
+msgstr "Область для віджетів по-центру під слайдером"
+
+#: functions/widgets/sidebars.php:26 functions/widgets/sidebars.php:28
+msgid "Left widget area below slider"
+msgstr "Область для віджетів ліворуч під слайдером"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Домівка"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "По всій ширині"
+
+#: functions/customizer/customizer-template.php:614
+#: functions/customizer/customizer-callout.php:98 theme_setup_data.php:59
+msgid "Purchase Now"
+msgstr "Придбати зараз"
+
+#: single.php:17
+msgid "About the author"
+msgstr "Про автора"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Пошук"
+
+#: search.php:18
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Вибачте, але нічого не знайшлося. Спробуйте змінити пошуковий запит"
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: index-slider.php:23 index-slider.php:31 index-slider.php:39
+msgid "Powerful Bootstrap Theme"
+msgstr "Потужня Bootstrap-тема"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Область віджетів підвалу"
+
+#: functions/customizer/customizer-testimonial.php:68
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:253
+#: functions/customizer/customizer-service.php:314
+#: functions/customizer/customizer-service.php:377
+#: functions/customizer/customizer-service.php:440
+#: functions/customizer/customizer-template.php:407
+#: functions/customizer/customizer-template.php:462
+#: functions/customizer/customizer-template.php:517
+#: functions/customizer/customizer-template.php:604
+#: functions/customizer/customizer-callout.php:66
+#: functions/customizer/customizer-footer-callout.php:107
+#: functions/customizer/customizer-footer-callout.php:163
+#: functions/customizer/customizer-footer-callout.php:218
+#: functions/customizer/customizer-project.php:73
+#: functions/customizer/customizer-news.php:85
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "Опис"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "Іконка FontAwesome"
+
+#: functions/customizer/customizer-testimonial.php:53
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:172
+#: functions/customizer/customizer-service.php:235
+#: functions/customizer/customizer-service.php:296
+#: functions/customizer/customizer-service.php:358
+#: functions/customizer/customizer-service.php:421
+#: functions/customizer/customizer-template.php:389
+#: functions/customizer/customizer-template.php:443
+#: functions/customizer/customizer-template.php:498
+#: functions/customizer/customizer-template.php:586
+#: functions/customizer/customizer-callout.php:51
+#: functions/customizer/customizer-footer-callout.php:88
+#: functions/customizer/customizer-footer-callout.php:144
+#: functions/customizer/customizer-footer-callout.php:199
+#: functions/customizer/customizer-project.php:55
+#: functions/customizer/customizer-news.php:70
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Заголовок"
+
+#: functions/customizer/customizer-template.php:380
+#: functions/customizer/customizer-footer-callout.php:79
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "Маєте питання? Зателефонуйте нам"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Віджет інформації теми Appointment"
+
+#: functions/menu/default_menu_walker.php:23
+#: functions/breadcrumbs/breadcrumbs.php:6
+msgid "Home"
+msgstr "Головна"
+
+#: functions/customizer/customizer-slider.php:143
+msgid "Input number of slides"
+msgstr "Обрати кількість слайдів"
+
+#: functions/customizer/customizer-slider.php:104
+msgid "Select slider animation"
+msgstr "Оберіть анімацію сдайдерів"
+
+#: functions/customizer/customizer-testimonial.php:81
+#: functions/customizer/customizer-testimonial.php:93
+#: functions/customizer/customizer-slider.php:93
+#: functions/customizer/customizer-slider.php:106
+msgid "slide"
+msgstr "слайд"
+
+#: functions/customizer/customizer-slider.php:82
+msgid "Select category for slider"
+msgstr "Оберіть категорію для слайдера"
+
+#: functions/customizer/customizer-slider.php:64
+msgid "Category slider"
+msgstr "Слайдер категорії"
+
+#: functions/customizer/customizer-slider.php:63
+msgid "Demo slider"
+msgstr "Демо-слайдер"
+
+#: functions/customizer/customizer-slider.php:60
+msgid "Select slider type"
+msgstr "Оберіть тип слайдеру"
+
+#: functions/customizer/customizer-slider.php:20
+msgid "Featured slider settings"
+msgstr "Налатування обраного слайдера"
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Slider settings"
+msgstr "Налаштування слайдеру"
+
+#: functions/customizer/customizer-service.php:461
+msgid "Add more services"
+msgstr "Додати більше послуг"
+
+#: functions/customizer/customizer-service.php:384
+msgid "Service section six"
+msgstr "Розділ послуг шість"
+
+#: functions/customizer/customizer-service.php:322
+msgid "Service section five"
+msgstr "Розділ послуг п'ять"
+
+#: functions/customizer/customizer-service.php:261
+msgid "Service section four"
+msgstr "Розділ послуг чотири"
+
+#: functions/customizer/customizer-service.php:197
+msgid "Service section three"
+msgstr "Розділ послуг три"
+
+#: functions/customizer/customizer-service.php:135
+msgid "Service section two"
+msgstr "Розділ послуг два"
+
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:163
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:349
+#: functions/customizer/customizer-service.php:412 theme_setup_data.php:36
+#: theme_setup_data.php:39 theme_setup_data.php:42 theme_setup_data.php:45
+#: theme_setup_data.php:48 theme_setup_data.php:51
+msgid "Easy to use"
+msgstr "Проста у використанні"
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Розділ послуг один"
+
+#: functions/customizer/customizer-service.php:42 theme_setup_data.php:33
+msgid "Our services"
+msgstr "Наші послуги"
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Налаштування послуг"
+
+#: functions/customizer/customizer-pro.php:77
+msgid "The Pro version gives you more opportunities to enhance your site and business. In order to create an effective online presence, one must showcase their wide range of products, use a Contact Us enquiry form, create an effective About Us page, introduce the Team Members, etc. The Pro version offers all this. Buy the Pro version today and give us the chance to serve you better."
+msgstr "Версія Про пропонує більше можливостей для розширення вашого сайту і бізнесу. Для створення ефективної онлайн-присутності вам необхідно представити широкий вибір продуктів. Для цього використайте форму запиту «Зв'яжіться з нами», створіть ефективну сторінку «Про нас», представте членів команди тощо. Про-версія пропонує все це. Придбайте Про-версію і надайте нам шанс зробити все для вас."
+
+#: functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr "Документація"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "ДОДАТИ ВАШ ВІДГУК"
+
+#: functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PRO"
+msgstr "ОНОВИТИ ДО ПРО"
+
+#: functions/customizer/customizer-news.php:122
+msgid "Select number of Posts"
+msgstr "Обрати кількість записів"
+
+#: functions/customizer/customizer-news.php:102
+msgid "Select category for Latest News"
+msgstr "Оберіть категорію для останніх новин"
+
+#: functions/customizer/customizer-news.php:63 theme_setup_data.php:69
+msgid "Latest news"
+msgstr "Останні новини"
+
+#: functions/customizer/customizer-news.php:8
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News settings"
+msgstr "Налаштування свіжих новин"
+
+#: functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Оберіть ваш favicon (16x16 або 32x32 — ідеальні розміри)"
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr "Завантажити favicon"
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "Favicon сайту"
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Відобразити текст логотипу"
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr "Введіть висоту логотипу"
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr "Введіть ширину логотипу"
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Увімкнути або вимкнути логотип "
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Завантажити зображення 150x150 для логотипу"
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Налаштування логотипу заголовку"
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Текст заголовку"
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Заголовок шапки"
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Користувацькі налаштування шапки"
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Налаштування заголовку"
+
+#: functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/customizer/customizer-copyright.php:203 functions.php:98
+msgid "GooglePlus URL"
+msgstr "GooglePlus URL"
+
+#: functions/customizer/customizer-copyright.php:167
+#: functions/customizer/customizer-header.php:292 functions.php:97
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-copyright.php:132
+#: functions/customizer/customizer-header.php:256 functions.php:96
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-copyright.php:96
+#: functions/customizer/customizer-header.php:218 functions.php:95
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr "Приховати соціальні іконки у заголовку"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Соціальні посилання"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Приховати текст копірайту"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Текст копірайту"
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Налаштування копірайту підвалу"
+
+#: functions/customizer/customizer-callout.php:157 theme_setup_data.php:62
+msgid "Get in Touch"
+msgstr "Будемо на зв'язку"
+
+#: functions/customizer/customizer-callout.php:116
+msgid "Button two"
+msgstr "Кнопка два"
+
+#: functions/customizer/customizer-callout.php:91
+msgid "Button one"
+msgstr "Кнопка один"
+
+#: functions/customizer/customizer-callout.php:44 theme_setup_data.php:56
+msgid "Want to say hey or find out more?"
+msgstr "Бажаєте привітатись чи дізнатися більше?"
+
+#: functions/customizer/customizer-template.php:532
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+msgid "Contact callout settings"
+msgstr "Налаштування заклику до дії у контактах"
+
+#: functions/breadcrumbs/breadcrumbs.php:102
+#: functions/breadcrumbs/breadcrumbs.php:108 functions.php:83
+msgid "Page"
+msgstr "Сторінка"
+
+#: index-news.php:47 functions/template-tag.php:23
+msgid "By"
+msgstr "Автор"
+
+#: content.php:12 functions.php:115 functions.php:132 index-slider.php:25
+#: index-slider.php:33 index-slider.php:41
+msgid "Read More"
+msgstr "Читати далі"
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr "Напишіть відгук"
+
+#: comments.php:77
+msgid "Send Message"
+msgstr "Надіслати повідомлення"
+
+#: comments.php:75
+msgid "Logout from this Account"
+msgstr "Вийти з цього облікового запису"
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr "Увійшли як"
+
+#: comments.php:65
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Новіші коментарі &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Старіші коментарі"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: comments.php:40
+msgid "Comments so far"
+msgstr "Коментарів на дану мить"
+
+#: comments.php:40
+msgid "1 Comment so far"
+msgstr "1 коментар"
+
+#: comments.php:40
+msgid "No Comments so far"
+msgstr "Коментарів немає"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує узгодження."
+
+#: comments.php:26
+msgid "Edit"
+msgstr "Редагувати"
+
+#: comments.php:12
+msgid "Reply"
+msgstr "Відповіcти"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Захищено паролем. Введіть пароль."
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "Архів блогу"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "Архів за рік"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "Архів за місяць"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Архів за день"
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "Повернутися назад"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Вибачте, але сторінки, яку ви шукаєте, не існує."
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Ой! Сторінку не знайдено"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/appointment-wordpress-theme-1/"
+msgstr "https://webriti.com/appointment-wordpress-theme-1/"

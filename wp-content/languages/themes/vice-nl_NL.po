@@ -1,0 +1,60 @@
+# Translation of Themes - vice in Dutch
+# This file is distributed under the same license as the Themes - vice package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-18 11:45:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - vice\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme ideal for creating sites for corporate, creative businesses, small businesses, startups, portfolios, restaurants, online agencies, firms, freelancers, real estate agencies, travel, photography, recipes, design, art, law and architect firms. Vice is a child theme of the Appointment theme, and has several sections such as slider, services, widget area, etc. Vice offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/appointment/. We hope you will find the Vice theme useful."
+msgstr "Een bedrijfsthema ideaal voor het maken van sites voor ondernemingen, creatieve bedrijven, kleine bedrijven, start-ups, portfolio's, restaurants, online bureaus, firma's, freelancers, vastgoedkantoren, reisbureaus, fotografie, recepten, design, kunst, juridisch en architectenbureaus. Vice is een child-thema van het Appointment-thema en heeft verschillende secties, zoals een slider, diensten, widgetgebied, enz. Vice biedt een prachtig ontworpen masonry blog lay-out. Voor meer details, bekijk deze link https://wordpress.org/themes/appointment/. We hopen dat je het Vice-thema nuttig vindt."
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr "Vice"
+
+#: home.php:28
+msgid "In"
+msgstr "In"
+
+#: home.php:23
+msgid "Posted"
+msgstr "Geplaatst"
+
+#: home.php:22
+msgid "By"
+msgstr "Door"
+
+#: functions/custom_control/class-dummy-import-control.php:13
+msgid "Getting started"
+msgstr "Aan de slag"
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid "Welcome! Thank you for choosing the Vice theme. Use our homepage to make the most out of it. For instructions, follow the button."
+msgstr "Welkom! Bedankt dat je hebt gekozen voor het Vice-thema. Gebruik onze homepagina om het meeste uit dit thema te halen. Voor instructies, klik op de knop."
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr "Activeer homepagina"
+
+#: home.php:32
+msgid "Read More"
+msgstr "Meer lezen"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vice-wordpress-page/"
+msgstr "https://webriti.com/vice-wordpress-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

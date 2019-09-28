@@ -1,0 +1,438 @@
+# Translation of Plugins - Antispam Bee - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Antispam Bee - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-04 10:15:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Antispam Bee - Stable (latest release)\n"
+
+#: antispam_bee.php:1862
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "λέξεις"
+
+#: inc/gui.class.php:540
+msgid "https://wordpress.org/support/plugin/antispam-bee"
+msgstr "https://wordpress.org/support/plugin/antispam-bee"
+
+#: inc/gui.class.php:537
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/"
+
+#: antispam_bee.php:2523
+msgid "Comment"
+msgstr "Σχολιάστε"
+
+#: antispam_bee.php:2523
+msgid "Trackback"
+msgstr "Παραπομπή"
+
+#: antispam_bee.php:437
+msgid "Identical Post title and blog title"
+msgstr "Ίδιος τίτλος άρθρου και τίτλος του ιστολογίου"
+
+#: inc/gui.class.php:478
+msgid "If checked, you will delete all data Antispam Bee creates, when uninstalling the plugin."
+msgstr "Αν το επιλέξετε, μολις απεγκατασταθεί το Antispam Bee, θα διαγραφούν ολα τα στοιχεία που δημιουργεί το συγκεκριμένο plugin "
+
+#: inc/gui.class.php:477
+msgid "Delete Antispam Bee data when uninstalling"
+msgstr "Διαγραφή δεδομένων του AntiSpam Bee κατά την απεγκατάσταση."
+
+#. translators: The number of spam comments Antispam Bee blocked so far.
+#: antispam_bee.php:697
+msgid "%d Blocked"
+msgstr "%d Μπλοκαρισμένο"
+
+#: inc/gui.class.php:275
+msgid "Block or allow comments from specific countries"
+msgstr "Μπλοκάρετε ή επιτρέψτε σχόλια από συγκεκριμένες χώρες"
+
+#: antispam_bee.php:428
+msgid "Honeypot"
+msgstr "Honeypot"
+
+#. Description of the plugin
+msgid "Antispam plugin with a sophisticated toolset for effective day to day comment and trackback spam-fighting. Built with data protection and privacy in mind."
+msgstr "Το πρόσθετο Antispam αποτελεί μια εργαλειοθήκη για καθημερινή αποδοτική καταπολέμηση spam στα σχόλια και στις παραπομπές. Δημιουργημένο με σεβασμό στην προστασία δεδομένων και την ιδιωτικότητα."
+
+#: inc/gui.class.php:560
+msgid "German"
+msgstr "Γερμανικά"
+
+#: inc/gui.class.php:561
+msgid "English"
+msgstr "Αγγλικά"
+
+#: inc/gui.class.php:562
+msgid "French"
+msgstr "Γαλλικά"
+
+#: inc/gui.class.php:563
+msgid "Italian"
+msgstr "Ιταλικά"
+
+#: inc/gui.class.php:564
+msgid "Spanish"
+msgstr "Ισπανικά"
+
+#: antispam_bee.php:434
+msgid "BBCode"
+msgstr "BBCode"
+
+#: antispam_bee.php:435
+msgid "Comment Language"
+msgstr "Γλώσσα σχολιασμού"
+
+#: inc/gui.class.php:531 antispam_bee.php:557
+msgid "Donate"
+msgstr "Προσφορά"
+
+#: inc/gui.class.php:534
+msgid "https://wordpress.org/plugins/antispam-bee/faq/"
+msgstr "https://wordpress.org/plugins/antispam-bee/faq/"
+
+#: inc/gui.class.php:442
+msgid "Pings"
+msgstr "Pings"
+
+#: inc/gui.class.php:491
+msgid "Various options"
+msgstr "Διάφορες επιλογές"
+
+#: inc/gui.class.php:441
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: antispam_bee.php:429
+msgid "Comment time"
+msgstr "Ώρα σχολιασμού"
+
+#: inc/gui.class.php:515
+msgid "No spam check for link notifications"
+msgstr "Δεν υπάρχει έλεγχος των spam για ενημερώσεις συνδέσμων"
+
+#: inc/gui.class.php:305 inc/gui.class.php:320
+msgid "e.g. BF, SG, YE"
+msgstr "για παράδειγμα BF, SG, YE"
+
+#: inc/gui.class.php:374
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: inc/gui.class.php:537
+msgid "Manual"
+msgstr "Εγχειρίδιο χρήσης"
+
+#: inc/gui.class.php:402
+msgid "Spam-Notification by email"
+msgstr "Ενημέρωση για ανεπιθύμητα μέσω e-mail"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag.
+#: inc/gui.class.php:353
+msgid "Detect and approve only the specified language. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Εντόπισε και ενέκρινε μόνο την συγκεκριμένη γλώσσα. Παρακαλώ διαβάστε το %1$sσημείωμα ιδιωτικότητας%2$s για αυτή την επιλογή"
+
+#: inc/gui.class.php:268
+msgid "Check for spam data on your own blog"
+msgstr "Ελεγξτε για ανεπιθύμητα δεδομένα στο ιστολόγιο σας"
+
+#: inc/gui.class.php:498
+msgid "Generate statistics as a dashboard widget"
+msgstr "Δημιουργία μικροεφαρμογής στατιστικών στον πίνακα ελέγχου"
+
+#: inc/gui.class.php:252
+msgid "Validation of the IP address used"
+msgstr "Επιβεβαίωση των χρησιμοποιούμενων διευθύνσεων IP"
+
+#: inc/gui.class.php:216
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#trust-commenters-with-a-gravatar"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#trust-commenters-with-a-gravatar"
+
+#: inc/gui.class.php:346
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#allow-comments-only-in-certain-language"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#allow-comments-only-in-certain-language"
+
+#: inc/gui.class.php:340
+msgid "Allow comments only in certain language"
+msgstr "Επιτρέψτε σχόλια μόνο στην συγκεκριμένη γλώσσα"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag
+#: inc/gui.class.php:222
+msgid "Check if commenter has a Gravatar image. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Ελέγξτε αν ο σχολιαστής διαθέτει εικόνα Gravatar. Παρακαλώ διαβάστε την %1$sπολιτική απορρήτου%2$s για την συγκεκριμένη επιλογή."
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag.
+#: inc/gui.class.php:287
+msgid "Filtering the requests depending on country. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Φιλτράρετε τα αίτηματα με βάση τη χώρα. Παρακαλώ διαβάστε την %1$sπολιτική απορρήτου%2$s για την συγκεκριμένη επιλογή."
+
+#: inc/gui.class.php:540 antispam_bee.php:558
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: antispam_bee.php:433
+msgid "Country Check"
+msgstr "Έλεγχος Χώρας"
+
+#: antispam_bee.php:432
+msgid "Local DB Spam"
+msgstr "Τοπική Βάση Δεδομένων Spam"
+
+#: antispam_bee.php:436
+msgid "Regular Expression"
+msgstr "Κανονική Έκφραση"
+
+#: antispam_bee.php:431
+msgid "Fake IP"
+msgstr "Ψεύτικη IP"
+
+#: inc/gui.class.php:299
+msgid "https://www.iso.org/iso/country_names_and_code_elements"
+msgstr "https://www.iso.org/iso/country_names_and_code_elements"
+
+#: inc/gui.class.php:281
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#block-comments-from-specific-countries"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#block-comments-from-specific-countries"
+
+#: inc/gui.class.php:260
+msgid "Predefined and custom patterns by plugin hook"
+msgstr "Προδιαγεγραμμένα και προσαρμοσμένα μοτίβα από ζεύξη πρόσθετου"
+
+#: inc/gui.class.php:202
+msgid "No review of already commented users"
+msgstr "Καμία βαθμολογία από τους χρήστες που ήδη έχουν σχολιάσει."
+
+#: antispam_bee.php:430
+msgid "Empty Data"
+msgstr "Κενά δεδομένα"
+
+#. translators: 1: opening <a> tag with link to ISO codes reference. 2: closing
+#. </a> tag.
+#: inc/gui.class.php:311
+msgid "Blacklist  %1$sISO Codes%2$s for this option."
+msgstr "Μαύρη λίστα %1$sISO Codes%2$s για αυτή την επιλογή. "
+
+#. translators: 1: opening <a> tag with link to ISO codes reference. 2: closing
+#. </a> tag.
+#: inc/gui.class.php:326
+msgid "Whitelist  %1$sISO Codes%2$s for this option."
+msgstr "Λευκή λίστα %1$sISO Codes%2$s για αυτή την επιλογή."
+
+#: inc/gui.class.php:534
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις "
+
+#: antispam_bee.php:533
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: inc/gui.class.php:543
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: antispam_bee.php:2522
+msgid "Type"
+msgstr "Τύπος"
+
+#: antispam_bee.php:2514
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: inc/gui.class.php:25 inc/gui.class.php:29
+msgid "Cheatin&#8217; uh?"
+msgstr "Κλέβουμε;"
+
+#: antispam_bee.php:2544
+msgid "Delete it"
+msgstr "Διέγραψε το"
+
+#: antispam_bee.php:2538
+msgid "Trash it"
+msgstr "Μεταφορά στο κάδο"
+
+#: inc/gui.class.php:468 inc/columns.class.php:28 antispam_bee.php:2529
+msgid "Spam Reason"
+msgstr "Αιτιολογία spam"
+
+#: antispam_bee.php:2510
+msgid "New spam comment on your post"
+msgstr "Νέο σχόλιο με spam στη δημοσίευση σας"
+
+#: antispam_bee.php:2503
+msgid "Content removed by Antispam Bee"
+msgstr "Το περιεχόμενο αφαιρέθηκε από το Antispam Bee"
+
+#: antispam_bee.php:2495
+msgid "Comment marked as spam"
+msgstr "Το σχόλιο σημειώθηκε ως spam"
+
+#: antispam_bee.php:804
+msgid "No data available."
+msgstr "Δεν υπάρχουν διαθέσιμα δεδομένα."
+
+#. Author URI of the plugin
+msgid "https://pluginkollektiv.org"
+msgstr "https://pluginkollektiv.org"
+
+#. Author of the plugin
+msgid "pluginkollektiv"
+msgstr "pluginkollektiv"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/antispam-bee/"
+msgstr "https://wordpress.org/plugins/antispam-bee/"
+
+#. Plugin Name of the plugin
+msgid "Antispam Bee"
+msgstr "Antispam Bee"
+
+#: inc/gui.class.php:488
+msgid "More"
+msgstr "Περισσότερα"
+
+#: inc/gui.class.php:514
+msgid "Do not check trackbacks / pingbacks"
+msgstr "Να μην ελέγχονται τα trackbacks / pingbacks"
+
+#: inc/gui.class.php:522
+msgid "Comment form used outside of posts"
+msgstr "Έλεγχος της φόρμας σχολίων, εκτός των δημοσιεύσεων"
+
+#: inc/gui.class.php:523
+msgid "Check for comment forms on archive pages"
+msgstr "Έλεγχος φορμών σχολίων στο αρχείων σελίδων"
+
+#: inc/gui.class.php:457
+msgid "For multiple selections press Ctrl/CMD"
+msgstr "Για πολλαπλές επιλογές πατήστε Ctrl/CMD"
+
+#: inc/gui.class.php:387
+msgid "Other antispam tools"
+msgstr "Αλλα εργαλεία antispam"
+
+#: inc/gui.class.php:191
+msgid "Antispam filter"
+msgstr "Φίλτρο Antispam"
+
+#: inc/gui.class.php:506
+msgid "Spam counter on the dashboard"
+msgstr "Μετρητής των ανεπιθύμητων στο πίνακα ελέγχου"
+
+#: inc/gui.class.php:499
+msgid "Daily updates of spam detection rate"
+msgstr "Καθημερινές ενημερώσεις του βαθμού ανίχνευσης των spam"
+
+#: inc/gui.class.php:507
+msgid "Amount of identified spam comments"
+msgstr "Σύνολο των αναγνωρισμένων spam σχολίων"
+
+#: inc/gui.class.php:456
+msgid "Delete comments by spam reasons"
+msgstr "Διαγραφή σχολίων με λόγους spam"
+
+#: inc/gui.class.php:425
+msgid "Cleaning up the database from old entries"
+msgstr "Καθαρισμός βάσης δεδομένων από παλαιότερες καταχωρήσεις"
+
+#: inc/gui.class.php:259
+msgid "Use regular expressions"
+msgstr "Χρήση κανονικών εκφράσεων"
+
+#: inc/gui.class.php:394
+msgid "Mark as spam, do not delete"
+msgstr "Σημείωση ως spam, να μην διαγραφεί"
+
+#: inc/gui.class.php:395
+msgid "Keep the spam in my blog."
+msgstr "Κράτησε το spam στο blog μου."
+
+#: inc/gui.class.php:403
+msgid "Notify admins by e-mail about incoming spam"
+msgstr "Ειδοποίηση των διαχειριστών μέσω e-mail για εισερχόμενο spam"
+
+#. translators: $s is an input field containing the number of days.
+#: inc/gui.class.php:421
+msgid "Delete existing spam after %s days"
+msgstr "Διαγραφή υπαρχόντων spam μετά από %s μέρες"
+
+#: inc/gui.class.php:410
+msgid "Do not save the spam reason"
+msgstr "Να μην αποθηκεύεται η αιτιολογία των spam"
+
+#: inc/gui.class.php:243
+msgid "BBCode is spam"
+msgstr "To ΒΒCode είναι spam"
+
+#: antispam_bee.php:2550
+msgid "Approve it"
+msgstr "Ενέκρινε το"
+
+#: inc/gui.class.php:201
+msgid "Trust approved commenters"
+msgstr "Εμπιστευτείτε σχολιαστές που έχουν εγκριθεί"
+
+#: antispam_bee.php:2559
+msgid "http://antispambee.com"
+msgstr "http://antispambee.com"
+
+#: antispam_bee.php:2554
+msgid "Spam list"
+msgstr "Λίστα spam"
+
+#: inc/gui.class.php:384
+msgid "Advanced"
+msgstr "Προηγμένες ρυθμίσεις"
+
+#: inc/gui.class.php:267
+msgid "Look in the local spam database"
+msgstr "Κοιτάξτε στη τοπική βάση δεδομένων των spam"
+
+#: inc/gui.class.php:236
+msgid "Not recommended when using page caching"
+msgstr "Δεν προτείνεται όταν χρησιμοποιείται caching σελίδας"
+
+#: inc/gui.class.php:449
+msgid "Other types of spam will be deleted immediately"
+msgstr "Άλλοι τύποι spam, θα διαγράφονται άμεσα"
+
+#: inc/gui.class.php:251
+msgid "Validate the ip address of commenters"
+msgstr "Επικυρώστε τις IP διευθύνσεις των σχολιαστών"
+
+#: antispam_bee.php:2558
+msgid "Notify message by Antispam Bee"
+msgstr "Ειδοποίηση με μήνυμα από το Antispam Bee"
+
+#: inc/gui.class.php:194
+msgid "Filter in the execution order"
+msgstr "Φιλτράρισμα με βάση την σειρά εκτέλεσης"
+
+#: inc/gui.class.php:235
+msgid "Consider the comment time"
+msgstr "Να λαμβάνεται υπόψη ο χρόνος που έγινε το σχόλιο"
+
+#: inc/gui.class.php:244
+msgid "Review the comment contents for BBCode links"
+msgstr "Αξιολόγηση του περιεχομένου των σχολίων για συνδέσμους BBCode"
+
+#: inc/gui.class.php:411
+msgid "Spam reason as a table column in the spam overview"
+msgstr "Η αιτιολογία spam ως στήλη πίνακα στη γενική εικόνα "
+
+#. translators: %s is the select field.
+#: inc/gui.class.php:437
+msgid "Limit approval to %s"
+msgstr "Περιορισμός έγκρισης σε %s"
+
+#: inc/gui.class.php:210
+msgid "Trust commenters with a Gravatar"
+msgstr "Οι σχολιαστές που διαθέτουν Gravatar να θεωρούνται αξιόπιστοι"

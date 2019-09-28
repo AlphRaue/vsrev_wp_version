@@ -1,0 +1,60 @@
+# Translation of Themes - vice in Danish
+# This file is distributed under the same license as the Themes - vice package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-15 11:30:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - vice\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme ideal for creating sites for corporate, creative businesses, small businesses, startups, portfolios, restaurants, online agencies, firms, freelancers, real estate agencies, travel, photography, recipes, design, art, law and architect firms. Vice is a child theme of the Appointment theme, and has several sections such as slider, services, widget area, etc. Vice offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/appointment/. We hope you will find the Vice theme useful."
+msgstr "Et virksomhedstema der er velegnet til websteder for forretnings- og kreative virksomheder, små virksomheder, opstartsvirksomheder, porteføljer, restauranter, online bureauer, film, freelancere, ejendomsmæglere, rejser, foto, opskrifter, design, kunst, jura og arkitektfirmaer. Vice er et undertema af Appointment temaet og har flere sektioner såsom skydere, tjenester, widget-områder osv. Vice tilbyder et smukt designet bloglayout med byggesten. Besøg dette link https://wordpress.org/themes/appointment/. Vi håber, at du vil finde Vice brugbart."
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr "vice"
+
+#: home.php:28
+msgid "In"
+msgstr "I"
+
+#: home.php:23
+msgid "Posted"
+msgstr "Udgivet"
+
+#: home.php:22
+msgid "By"
+msgstr "Af"
+
+#: functions/custom_control/class-dummy-import-control.php:13
+msgid "Getting started"
+msgstr "Kom godt i gang"
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid "Welcome! Thank you for choosing the Vice theme. Use our homepage to make the most out of it. For instructions, follow the button."
+msgstr "Velkommen! Tak fordi du valgte Vice temaet. Brug vores forside til at få mest ud af det. Du kan få flere oplysninger ved at klikke på knappen"
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr "Aktiver forside"
+
+#: home.php:32
+msgid "Read More"
+msgstr "Læs mere"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vice-wordpress-page/"
+msgstr "https://webriti.com/vice-wordpress-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

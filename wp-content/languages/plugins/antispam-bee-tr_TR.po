@@ -1,0 +1,438 @@
+# Translation of Plugins - Antispam Bee - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Antispam Bee - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-27 06:55:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Antispam Bee - Stable (latest release)\n"
+
+#: antispam_bee.php:1862
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "kelimeler"
+
+#: inc/gui.class.php:540
+msgid "https://wordpress.org/support/plugin/antispam-bee"
+msgstr "https://wordpress.org/support/plugin/antispam-bee"
+
+#: inc/gui.class.php:537
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/"
+
+#: inc/gui.class.php:478
+msgid "If checked, you will delete all data Antispam Bee creates, when uninstalling the plugin."
+msgstr "İşaretliyse, eklentiyi kaldırılırken tüm Antispam Bee verileri silinir."
+
+#: inc/gui.class.php:477
+msgid "Delete Antispam Bee data when uninstalling"
+msgstr "Kaldırma sırasında Antispam Bee verilerini sil"
+
+#: antispam_bee.php:2523
+msgid "Trackback"
+msgstr "Geri izleme"
+
+#: antispam_bee.php:2523
+msgid "Comment"
+msgstr "Yorum"
+
+#: antispam_bee.php:437
+msgid "Identical Post title and blog title"
+msgstr "Benzer yazı ve blog başlığı"
+
+#. Description of the plugin
+msgid "Antispam plugin with a sophisticated toolset for effective day to day comment and trackback spam-fighting. Built with data protection and privacy in mind."
+msgstr "Antispam eklentisi, etkin yorumlama ve geri dönüşüme yönelik istenmeyen yorum günlüğü için gelişmiş bir araç setine sahiptir. Veri koruması ve gizlilik göz önünde bulundurularak oluşturulmuştur."
+
+#: inc/gui.class.php:275
+msgid "Block or allow comments from specific countries"
+msgstr "Belirli ülkelerdeki yorumları engelle veya izin ver"
+
+#. translators: The number of spam comments Antispam Bee blocked so far.
+#: antispam_bee.php:697
+msgid "%d Blocked"
+msgstr "%d Engellendi"
+
+#: antispam_bee.php:428
+msgid "Honeypot"
+msgstr "Honeypot"
+
+#: inc/gui.class.php:564
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: inc/gui.class.php:563
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: inc/gui.class.php:562
+msgid "French"
+msgstr "Fransızca"
+
+#: inc/gui.class.php:561
+msgid "English"
+msgstr "İngilizce"
+
+#: inc/gui.class.php:560
+msgid "German"
+msgstr "Almanca"
+
+#: inc/gui.class.php:537
+msgid "Manual"
+msgstr "Kılavuz"
+
+#: inc/gui.class.php:534
+msgid "FAQ"
+msgstr "SSS"
+
+#: inc/gui.class.php:534
+msgid "https://wordpress.org/plugins/antispam-bee/faq/"
+msgstr "https://tr.wordpress.org/plugins/antispam-bee/faq/"
+
+#: inc/gui.class.php:515
+msgid "No spam check for link notifications"
+msgstr "Bağlantı bildirimleri için spam kontrolü yok"
+
+#: inc/gui.class.php:498
+msgid "Generate statistics as a dashboard widget"
+msgstr "Bir pano tablosu bileşeni olarak istatistik oluştur"
+
+#: inc/gui.class.php:491
+msgid "Various options"
+msgstr "Çeşitli seçenekler"
+
+#: inc/gui.class.php:442
+msgid "Pings"
+msgstr "Pingler"
+
+#: inc/gui.class.php:441
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: inc/gui.class.php:402
+msgid "Spam-Notification by email"
+msgstr "E-posta ile Spam Bildirimi"
+
+#: inc/gui.class.php:374
+msgid "Language"
+msgstr "Dil"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag.
+#: inc/gui.class.php:353
+msgid "Detect and approve only the specified language. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Sadece belirtilen dili tespit edin ve onaylayın. Bu seçenek için %1$sgizlilik bildirimini%2$s unutmayın."
+
+#: inc/gui.class.php:346
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#allow-comments-only-in-certain-language"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#allow-comments-only-in-certain-language"
+
+#: inc/gui.class.php:340
+msgid "Allow comments only in certain language"
+msgstr "Yalnızca belirli dilde yapılan yorumlara izin ver"
+
+#. translators: 1: opening <a> tag with link to ISO codes reference. 2: closing
+#. </a> tag.
+#: inc/gui.class.php:326
+msgid "Whitelist  %1$sISO Codes%2$s for this option."
+msgstr "Bu seçenek için beyaz liste %1$sISO Kodları%2$s."
+
+#. translators: 1: opening <a> tag with link to ISO codes reference. 2: closing
+#. </a> tag.
+#: inc/gui.class.php:311
+msgid "Blacklist  %1$sISO Codes%2$s for this option."
+msgstr "Bu seçenek için kara liste %1$sISO Kodları%2$s."
+
+#: inc/gui.class.php:305 inc/gui.class.php:320
+msgid "e.g. BF, SG, YE"
+msgstr "e.g. BF, SG, YE"
+
+#: inc/gui.class.php:299
+msgid "https://www.iso.org/iso/country_names_and_code_elements"
+msgstr "https://www.iso.org/iso/country_names_and_code_elements"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag.
+#: inc/gui.class.php:287
+msgid "Filtering the requests depending on country. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Ülkeye bağlı istekleri süzme. Bu seçenek için %1$sgizlilik bildirimini%2$s unutmayın."
+
+#: inc/gui.class.php:281
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#block-comments-from-specific-countries"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#block-comments-from-specific-countries"
+
+#: inc/gui.class.php:268
+msgid "Check for spam data on your own blog"
+msgstr "Kendi blogunuzdaki spam verilerini kontrol edin"
+
+#: inc/gui.class.php:260
+msgid "Predefined and custom patterns by plugin hook"
+msgstr "Eklenti kancasına göre önceden tanımlanmış ve özel desenler"
+
+#: inc/gui.class.php:252
+msgid "Validation of the IP address used"
+msgstr "Kullanılan IP adresinin doğrulanması"
+
+#. translators: 1: opening <a> tag with link to documentation. 2: closing </a>
+#. tag
+#: inc/gui.class.php:222
+msgid "Check if commenter has a Gravatar image. Please note the %1$sprivacy notice%2$s for this option."
+msgstr "Yorum yapan kişinin bir Gravatar görseline sahip olup olmadığını kontrol edin. Bu seçenek için %1$sgizlilik bildirimini%2$s unutmayın."
+
+#: inc/gui.class.php:216
+msgid "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#trust-commenters-with-a-gravatar"
+msgstr "https://github.com/pluginkollektiv/antispam-bee/wiki/en-Documentation#trust-commenters-with-a-gravatar"
+
+#: inc/gui.class.php:202
+msgid "No review of already commented users"
+msgstr "Önceden yorum yapmış kullanıcılar hakkında inceleme yapılmaz"
+
+#: inc/gui.class.php:540 antispam_bee.php:558
+msgid "Support"
+msgstr "Destek"
+
+#: inc/gui.class.php:531 antispam_bee.php:557
+msgid "Donate"
+msgstr "Bağış"
+
+#: antispam_bee.php:436
+msgid "Regular Expression"
+msgstr "Düzenli İfade"
+
+#: antispam_bee.php:435
+msgid "Comment Language"
+msgstr "Yorum Dili"
+
+#: antispam_bee.php:434
+msgid "BBCode"
+msgstr "BBCode"
+
+#: antispam_bee.php:433
+msgid "Country Check"
+msgstr "Ülke Kontrolü"
+
+#: antispam_bee.php:432
+msgid "Local DB Spam"
+msgstr "Yerel DB Spam"
+
+#: antispam_bee.php:431
+msgid "Fake IP"
+msgstr "Sahte IP"
+
+#: antispam_bee.php:430
+msgid "Empty Data"
+msgstr "Boş Veri"
+
+#: antispam_bee.php:429
+msgid "Comment time"
+msgstr "Yorum zamanı"
+
+#. Author URI of the plugin
+msgid "https://pluginkollektiv.org"
+msgstr "https://pluginkollektiv.org"
+
+#. Author of the plugin
+msgid "pluginkollektiv"
+msgstr "pluginkollektiv"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/antispam-bee/"
+msgstr "https://tr.wordpress.org/plugins/antispam-bee/"
+
+#. Plugin Name of the plugin
+msgid "Antispam Bee"
+msgstr "Antispam Bee"
+
+#: inc/gui.class.php:543
+msgid "Save Changes"
+msgstr "Değişiklikleri kaydet"
+
+#: inc/gui.class.php:523
+msgid "Check for comment forms on archive pages"
+msgstr "Arşiv sayfalarındaki yorum formlarını kontrol et"
+
+#: inc/gui.class.php:522
+msgid "Comment form used outside of posts"
+msgstr "Yazıların dışında kullanılan yorum formu"
+
+#: inc/gui.class.php:514
+msgid "Do not check trackbacks / pingbacks"
+msgstr "Geri izleme ve geri bildirimleri kontrol etme"
+
+#: inc/gui.class.php:507
+msgid "Amount of identified spam comments"
+msgstr "Tanımlanan spam yorumların miktarı"
+
+#: inc/gui.class.php:506
+msgid "Spam counter on the dashboard"
+msgstr "Gösterge tablosunda spam sayacı"
+
+#: inc/gui.class.php:499
+msgid "Daily updates of spam detection rate"
+msgstr "Spam algılama oranının günlük güncellemeleri"
+
+#: inc/gui.class.php:488
+msgid "More"
+msgstr "Daha Fazla"
+
+#: inc/gui.class.php:457
+msgid "For multiple selections press Ctrl/CMD"
+msgstr "Birden çok seçim yapmak için Ctrl/CMD'ye basın"
+
+#: inc/gui.class.php:456
+msgid "Delete comments by spam reasons"
+msgstr "Yorumları spam nedeniyle sil"
+
+#: inc/gui.class.php:449
+msgid "Other types of spam will be deleted immediately"
+msgstr "Diğer spam türleri hemen silinecek"
+
+#. translators: %s is the select field.
+#: inc/gui.class.php:437
+msgid "Limit approval to %s"
+msgstr "%s için onay sınırı"
+
+#: inc/gui.class.php:425
+msgid "Cleaning up the database from old entries"
+msgstr "Eski veritabanı kayıtlarını temizleme"
+
+#. translators: $s is an input field containing the number of days.
+#: inc/gui.class.php:421
+msgid "Delete existing spam after %s days"
+msgstr "%s gün sonra mevcut istenmeyenleri sil"
+
+#: inc/gui.class.php:411
+msgid "Spam reason as a table column in the spam overview"
+msgstr "Spam genel bakışta bir tablo sütunu olarak spam nedeni"
+
+#: inc/gui.class.php:410
+msgid "Do not save the spam reason"
+msgstr "Spam nedenini kaydetme"
+
+#: inc/gui.class.php:403
+msgid "Notify admins by e-mail about incoming spam"
+msgstr "Yöneticileri gelen istenmeyen yorumlarla ilgili e-posta ile bilgilendirin"
+
+#: inc/gui.class.php:395
+msgid "Keep the spam in my blog."
+msgstr "Spamleri blogumda sakla."
+
+#: inc/gui.class.php:394
+msgid "Mark as spam, do not delete"
+msgstr "Silme, spam olarak işaretle"
+
+#: inc/gui.class.php:387
+msgid "Other antispam tools"
+msgstr "Diğer antispam araçları"
+
+#: inc/gui.class.php:384
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: inc/gui.class.php:267
+msgid "Look in the local spam database"
+msgstr "Yerel spam veritabanına bak"
+
+#: inc/gui.class.php:259
+msgid "Use regular expressions"
+msgstr "Normal ifadeler kullan"
+
+#: inc/gui.class.php:251
+msgid "Validate the ip address of commenters"
+msgstr "Yorum yapanların IP adresini doğrula"
+
+#: inc/gui.class.php:244
+msgid "Review the comment contents for BBCode links"
+msgstr "BBCode bağlantıları için yorum içeriğini gözden geçirin"
+
+#: inc/gui.class.php:243
+msgid "BBCode is spam"
+msgstr "BBCode spam"
+
+#: inc/gui.class.php:236
+msgid "Not recommended when using page caching"
+msgstr "Sayfa önbelleğe alma kullanıldığında önerilmez"
+
+#: inc/gui.class.php:235
+msgid "Consider the comment time"
+msgstr "Yorum zamanını dikkate al"
+
+#: inc/gui.class.php:210
+msgid "Trust commenters with a Gravatar"
+msgstr "Gravatar ile yorum yapan kişilere güven"
+
+#: inc/gui.class.php:201
+msgid "Trust approved commenters"
+msgstr "Onaylanan yorum yapanlara güven"
+
+#: inc/gui.class.php:194
+msgid "Filter in the execution order"
+msgstr "Yürütme sırasına göre filtrele"
+
+#: inc/gui.class.php:191
+msgid "Antispam filter"
+msgstr "Antispam Filtresi"
+
+#: inc/gui.class.php:25 inc/gui.class.php:29
+msgid "Cheatin&#8217; uh?"
+msgstr "Hile mi yapıyorsun?"
+
+#: antispam_bee.php:2559
+msgid "http://antispambee.com"
+msgstr "http://antispambee.com"
+
+#: antispam_bee.php:2558
+msgid "Notify message by Antispam Bee"
+msgstr "Antispam Bee Mesajı bildir"
+
+#: antispam_bee.php:2554
+msgid "Spam list"
+msgstr "Spam listesi"
+
+#: antispam_bee.php:2550
+msgid "Approve it"
+msgstr "Onayla"
+
+#: antispam_bee.php:2544
+msgid "Delete it"
+msgstr "Sil"
+
+#: antispam_bee.php:2538
+msgid "Trash it"
+msgstr "Çöpe at"
+
+#: inc/gui.class.php:468 inc/columns.class.php:28 antispam_bee.php:2529
+msgid "Spam Reason"
+msgstr "Spam nedeni"
+
+#: antispam_bee.php:2522
+msgid "Type"
+msgstr "Tip"
+
+#: antispam_bee.php:2514
+msgid "Author"
+msgstr "Yazar"
+
+#: antispam_bee.php:2510
+msgid "New spam comment on your post"
+msgstr "Yazınızda yeni spam yorum"
+
+#: antispam_bee.php:2503
+msgid "Content removed by Antispam Bee"
+msgstr "İçerik Antispam Bee tarafından kaldırıldı"
+
+#: antispam_bee.php:2495
+msgid "Comment marked as spam"
+msgstr "Yorum spam olarak işaretlendi"
+
+#: antispam_bee.php:804
+msgid "No data available."
+msgstr "Veri bulunamadı."
+
+#: antispam_bee.php:533
+msgid "Settings"
+msgstr "Ayarlar"

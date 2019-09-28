@@ -1,0 +1,260 @@
+# Translation of Plugins - Antispam Bee - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Antispam Bee - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-21 11:20:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Antispam Bee - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://pluginkollektiv.org"
+msgstr "http://pluginkollektiv.org"
+
+#. Author of the plugin/theme
+msgid "pluginkollektiv"
+msgstr "pluginkollektiv"
+
+#. Description of the plugin/theme
+msgid "Easy and extremely productive spam-fighting plugin with many sophisticated solutions. Includes protection again trackback spam."
+msgstr "簡単で非常に生産的なスパム対策プラグインで、多くの洗練されたソリューションを提供します。再びトラックバックスパムを保護します。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/antispam-bee/"
+msgstr "https://ja.wordpress.org/plugins/antispam-bee/"
+
+#. Plugin Name of the plugin/theme
+msgid "Antispam Bee"
+msgstr "Antispam Bee"
+
+#: inc/gui.class.php:379
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: inc/gui.class.php:360
+msgid "Check for comment forms on archive pages"
+msgstr "アーカイブページのコメントフォームを確認する"
+
+#: inc/gui.class.php:359
+msgid "Comment form used outside of posts"
+msgstr "投稿の外で使用されたコメントフォーム"
+
+#: inc/gui.class.php:352
+msgid "No spam check for trackback notifications"
+msgstr "トラックバック通知のスパムチェックを行わない"
+
+#: inc/gui.class.php:351
+msgid "Do not check trackbacks / pingbacks"
+msgstr "ピンバック・トラックバックをチェックしない"
+
+#: inc/gui.class.php:344
+msgid "Amount of identified spam comments"
+msgstr "特定されたスパムコメントの数"
+
+#: inc/gui.class.php:343
+msgid "Spam counter on the dashboard"
+msgstr "ダッシュボードのスパムカウンター"
+
+#: inc/gui.class.php:336
+msgid "Daily updates of spam detection rate"
+msgstr "スパム検出率の毎日の更新"
+
+#: inc/gui.class.php:335
+msgid "Statistics on the dashboard"
+msgstr "ダッシュボードの統計情報"
+
+#: inc/gui.class.php:325
+msgid "More"
+msgstr "続き"
+
+#: inc/gui.class.php:303
+msgid "For multiple selections press Ctrl/CMD"
+msgstr "複数選択の場合は、Ctrl / CMD"
+
+#: inc/gui.class.php:302
+msgid "Delete comments by spam reasons"
+msgstr "スパムの理由でコメントを削除します"
+
+#: inc/gui.class.php:295
+msgid "Other types of spam will be deleted immediately"
+msgstr "他の種類のスパムはすぐに削除されます"
+
+#: inc/gui.class.php:277
+msgid "Cleaning up the database from old entries"
+msgstr "古いエントリーからのデータベースクリーンアップ"
+
+#: inc/gui.class.php:274
+msgid "Delete existing spam after %s days"
+msgstr "%s日経過後、既存のスパムを削除"
+
+#: inc/gui.class.php:266
+msgid "Spam reason as table column in the spam overview"
+msgstr "スパム概要の表の列としての迷惑理由"
+
+#: inc/gui.class.php:265
+msgid "Not save the spam reason"
+msgstr "スパム判定の理由を保存しない"
+
+#: inc/gui.class.php:258
+msgid "Notify admins by e-mail about incoming spam"
+msgstr "受信スパムについてメールで管理者に通知する"
+
+#: inc/gui.class.php:257
+msgid "Notification by email"
+msgstr "メール通知"
+
+#: inc/gui.class.php:250
+msgid "Keep the spam in my blog."
+msgstr "私のブログにスパムを残してください。"
+
+#: inc/gui.class.php:249
+msgid "Mark as spam, do not delete"
+msgstr "スパムとしてマークするが、削除はしない"
+
+#: inc/gui.class.php:242
+msgid "Other antispam tools"
+msgstr "その他のアンチスパムツール"
+
+#: inc/gui.class.php:239
+msgid "Advanced"
+msgstr "上級者モード"
+
+#: inc/gui.class.php:230
+msgid "Matching the ip address with <a href=\"https://dnsbl.tornevall.org\" target=\"_blank\">Tornevall</a>"
+msgstr "<a href=\"https://dnsbl.tornevall.org\" target=\"_blank\">Tornevall</a> で IP アドレスの一致を確認中"
+
+#: inc/gui.class.php:229
+msgid "Use a public antispam database"
+msgstr "公共のアンチスパムデータベースを使用します"
+
+#: inc/gui.class.php:222
+msgid "Already marked as spam? Yes? No?"
+msgstr "すでにスパムとしてマーク済みですか ?"
+
+#: inc/gui.class.php:221
+msgid "Look in the local spam database"
+msgstr "ローカルのスパムデータベースを調べる"
+
+#: inc/gui.class.php:214
+msgid "Predefined and custom patterns by <a href=\"https://gist.github.com/4242142\" target=\"_blank\">plugin hook</a>"
+msgstr "<a href=\"https://gist.github.com/4242142\" target=\"_blank\">プラグインフック</a>による事前定義パターンとカスタムパターン"
+
+#: inc/gui.class.php:213
+msgid "Use regular expressions"
+msgstr "正規表現を使用"
+
+#: inc/gui.class.php:206
+msgid "Validity check for used ip address"
+msgstr "使用される IPアドレスの有効性チェック"
+
+#: inc/gui.class.php:205
+msgid "Validate the ip address of commenters"
+msgstr "コメント投稿者の IP アドレスを検証"
+
+#: inc/gui.class.php:198
+msgid "Review the comment contents for BBCode links"
+msgstr "BBCode リンクのコメント内容を確認する"
+
+#: inc/gui.class.php:197
+msgid "BBCode is spam"
+msgstr "BBCode をスパムとする"
+
+#: inc/gui.class.php:190
+msgid "Not recommended when using page caching"
+msgstr "ページキャッシュを使用する場合には推奨しません"
+
+#: inc/gui.class.php:189
+msgid "Consider the comment time"
+msgstr "コメントの時間を考慮"
+
+#: inc/gui.class.php:182
+msgid "Check if commenter has a Gravatar image"
+msgstr "コメント投稿者が Gravatar を設定済みかチェック"
+
+#: inc/gui.class.php:181
+msgid "Trust commenters with a Gravatar"
+msgstr "Gravatar のあるコメント投稿者を信頼"
+
+#: inc/gui.class.php:174
+msgid "Always approve previously approved users"
+msgstr "以前に承認されたことのあるユーザーの場合は自動承認"
+
+#: inc/gui.class.php:173
+msgid "Trust approved commenters"
+msgstr "承認済みのコメント投稿者を信頼"
+
+#: inc/gui.class.php:166
+msgid "Filter in the execution order"
+msgstr "実行順序のフィルター"
+
+#: inc/gui.class.php:163
+msgid "Antispam filter"
+msgstr "アンチスパムフィルター"
+
+#: inc/gui.class.php:30 inc/gui.class.php:35
+msgid "Cheatin&#8217; uh?"
+msgstr "間違えましたか?"
+
+#: antispam_bee.php:2247
+msgid "http://antispambee.com"
+msgstr "http://antispambee.com"
+
+#: antispam_bee.php:2246
+msgid "Notify message by Antispam Bee"
+msgstr "Antispam Bee の通知メッセージ"
+
+#: antispam_bee.php:2242
+msgid "Spam list"
+msgstr "スパムリスト"
+
+#: antispam_bee.php:2238
+msgid "Approve it"
+msgstr "承認する"
+
+#: antispam_bee.php:2232
+msgid "Delete it"
+msgstr "削除する"
+
+#: antispam_bee.php:2226
+msgid "Trash it"
+msgstr "ゴミ箱に移動"
+
+#: antispam_bee.php:2217 inc/columns.class.php:30 inc/gui.class.php:314
+msgid "Spam Reason"
+msgstr "スパム判定の理由"
+
+#: antispam_bee.php:2210
+msgid "Type"
+msgstr "タイプ"
+
+#: antispam_bee.php:2203
+msgid "Author"
+msgstr "登録者"
+
+#: antispam_bee.php:2199
+msgid "New spam comment on your post"
+msgstr "投稿に新しいスパムコメントがありました"
+
+#: antispam_bee.php:2192
+msgid "Content removed by Antispam Bee"
+msgstr "Antispam Bee によって削除されたコンテンツ"
+
+#: antispam_bee.php:2185
+msgid "Comment marked as spam"
+msgstr "スパムとしてマークされたコメント"
+
+#: antispam_bee.php:829
+msgid "No data available."
+msgstr "利用できるデータがありません。"
+
+#: antispam_bee.php:690
+msgid "Blocked"
+msgstr "ブロック済み"
+
+#: antispam_bee.php:493
+msgid "Settings"
+msgstr "設定"
