@@ -19,7 +19,7 @@
       <paths name="STRATO VSR">
         <serverdata>
           <mappings>
-            <mapping deploy="/WordPress_01" local="$PROJECT_DIR$" web="/WordPress_01" />
+            <mapping deploy="/WordPress_01" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

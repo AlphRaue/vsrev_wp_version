@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32b9aa73-e518-4d3d-b244-309751d73e35" name="Default Changelist" comment="" />
+    <list default="true" id="32b9aa73-e518-4d3d-b244-309751d73e35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/appointment/index-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/appointment/index-slider.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +16,27 @@
       <executable />
     </execution>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  <component name="DrupalConfiguration">
+    <drupalPath />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.3.3" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alph Soldner-Raue &lt;alph-raue@alph-raue.de&gt;" />
+        <option value="Alph Soldner-Raue" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.3.3">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1RSnebpZDlPrhGlOMsZL7ynTHO2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -26,7 +46,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Adobe/Adobe Dreamweaver CC 2019/node/node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,7 +56,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/Adobe/Adobe Dreamweaver CC 2019/node/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,8 +80,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569669460895</updated>
-      <workItem from="1569669462058" duration="1650000" />
+      <workItem from="1569669462058" duration="2669000" />
+      <workItem from="1569674080449" duration="2460000" />
     </task>
+    <task id="LOCAL-00001" summary="Bilder für Slideshow neu gesetzt.">
+      <created>1569675576571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569675576571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bilder für Slideshow neu gesetzt.">
+      <created>1569675607728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569675607728</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,10 +108,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
+    <MESSAGE value="Bilder für Slideshow neu gesetzt." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bilder für Slideshow neu gesetzt." />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>I:\xampp\htdocs\strato_alph_kplt\projects\VSReV</wordpressPath>
   </component>
 </project>

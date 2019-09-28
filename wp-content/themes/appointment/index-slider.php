@@ -2,7 +2,7 @@
 <?php 
 $appointment_options=theme_setup_data(); 
 $slider_setting = wp_parse_args(  get_option( 'appointment_options', array() ), $appointment_options);
-if($slider_setting['home_banner_enabled'] == 0 ) { 
+if($slider_setting['home_banner_enabled'] == 0 ) {
 ?>
 <div class="homepage-mycarousel">
 <div id="carousel-example-generic" class="carousel slide <?php echo $slider_setting['slider_options']; ?>"data-ride="carousel" 
@@ -10,7 +10,7 @@ if($slider_setting['home_banner_enabled'] == 0 ) {
 	<!-- Indicators -->
 		<?php
 			$query_args = array();
-			if($slider_setting['slider_radio'] == 'demo') { ?>
+			if($slider_setting['slider_radio'] == 'full') { ?>
 		<ol class="carousel-indicators">
 		<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 		<li data-target="#carousel-example-generic" data-slide-to="1"></li>
